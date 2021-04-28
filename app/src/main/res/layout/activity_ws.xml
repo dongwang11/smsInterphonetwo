@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <LinearLayout
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerHorizontal="true"
+        android:gravity="center_vertical"
+        android:layout_above="@+id/QRCode_bitmap"
+        android:layout_marginBottom="20dp"
+
+        >
+
+        <com.sms.app.interphone.view.CircleImageView
+
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@mipmap/icon_chat"
+            android:id="@+id/chat_icon"
+
+            />
+
+        <TextView
+
+            android:id="@+id/chat_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            android:textSize="20dp"
+
+            />
+
+    </LinearLayout>
+
+    <ImageView
+
+        android:id="@+id/QRCode_bitmap"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        />
+
+
+</RelativeLayout>

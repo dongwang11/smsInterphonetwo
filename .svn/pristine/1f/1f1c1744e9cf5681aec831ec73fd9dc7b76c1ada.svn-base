@@ -1,0 +1,11 @@
+D:/xm/smsInterhone/app/src/main/obj/local/armeabi-v7a/objs/speex/./wedrtc/downsample_fast.o: \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/downsample_fast.c \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/signal_processing_library.h \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/typedefs.h \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/spl_inl.h
+
+D:/xm/smsInterhone/app/src/main/jni/./wedrtc/signal_processing_library.h:
+
+D:/xm/smsInterhone/app/src/main/jni/./wedrtc/typedefs.h:
+
+D:/xm/smsInterhone/app/src/main/jni/./wedrtc/spl_inl.h:

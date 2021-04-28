@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_offline"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/settings_title_layout"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/nitecore">
+
+        <ImageView
+            android:id="@+id/offilne_image_return"
+            android:layout_width="35dp"
+            android:layout_height="25dp"
+            android:layout_centerVertical="true"
+            android:src="@mipmap/sms_return_icon1" />
+
+        <TextView
+            android:id="@+id/chat_title_text"
+            android:text="@string/sms_map_offline_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:textSize="20dp"
+            android:textColor="@color/black"/>
+
+
+    </RelativeLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:padding="10dp">
+            <Button
+                android:id="@+id/offilne_button_1"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="30dp"
+                android:layout_marginLeft="30dp"
+                android:textColor="@drawable/map_offline_button_textcolor_selector"
+                android:background="@drawable/map_offline_button_downloaded_style"
+                android:textSize="12sp"
+                android:text="@string/sms_map_mapslist"/>
+
+            <Button
+                android:id="@+id/offilne_button_2"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="30dp"
+                android:layout_marginRight="30dp"
+                android:background="@drawable/map_offline_button_maplist_style"
+                android:textColor="@drawable/map_offline_button_textcolor_selector"
+                android:textSize="12sp"
+                android:text="@string/sms_map_downloaded"/>
+
+
+        </LinearLayout>
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/offilne_one"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/white_background"
+            android:orientation="vertical">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:background="@color/gray">
+                <TextView
+                    android:id="@+id/open_textView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="15sp"
+                    android:gravity="center"
+                    android:text="@string/sms_map_downloaded_maps"
+                    android:layout_centerVertical="true"
+                    android:textColor="@color/black"
+                    android:padding="5dp"/>
+                <LinearLayout
+                    android:id="@+id/delete_linear_layout"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="5dp">
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:src="@mipmap/btn_delete_black"
+                        />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="10sp"
+                        android:gravity="center"
+                        android:text="@string/sms_map_delete_all"
+                        android:textColor="@color/black"
+                        android:padding="5dp"/>
+
+                </LinearLayout>
+
+            </RelativeLayout>
+
+
+            <ListView
+                android:id="@+id/open_listView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scrollbars="none"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                >
+
+            </ListView>
+
+
+        </LinearLayout>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scrollbars="none">
+
+
+            <LinearLayout
+                android:id="@+id/offilne_to"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/white_background"
+                android:visibility="gone"
+                android:orientation="vertical">
+
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:background="@color/gray">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="15sp"
+                        android:gravity="center"
+                        android:text="@string/sms_map_popular_cities"
+                        android:layout_centerVertical="true"
+                        android:textColor="@color/black"
+                        android:padding="5dp"/>
+
+
+                </RelativeLayout>
+
+
+                <com.sms.app.interphone.view.ListViewLinreLayout
+                    android:id="@+id/offilne_listView_1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:scrollbars="none"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp">
+
+                </com.sms.app.interphone.view.ListViewLinreLayout>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:background="@color/gray">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="15sp"
+                        android:gravity="center"
+                        android:text="@string/sms_map_asia_cities"
+                        android:layout_centerVertical="true"
+                        android:textColor="@color/black"
+                        android:padding="5dp"/>
+
+
+                </RelativeLayout>
+
+                <com.sms.app.interphone.view.ListViewLinreLayout
+                    android:id="@+id/offilne_listView_2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:scrollbars="none"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp">
+
+                </com.sms.app.interphone.view.ListViewLinreLayout>
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+</LinearLayout>

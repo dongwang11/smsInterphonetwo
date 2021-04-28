@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="red">#ff0000</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="gray">#BEBEBE</color>
+
+    <!--<color name="zhu_se">#4BA8A1</color>-->
+    <color name="nitecore">#FFE100</color>
+
+    <color name="true_se">#FF459B94</color>
+
+    <color name="resultColor">#b0000000</color>
+    - <!--  176透明黑色-->
+    <color name="maskColor">#60000000</color>
+    - <!--  96透明黑色-->
+    <color name="resultPointColor">#c00690FF</color>
+    - <!--  192透明黑色-->
+    <color name="dibubutton">#1C2E38</color>
+
+
+
+
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="menu_fragment_background">#B3000000</color>
+    <color name="menu_item_background">#f2f2f2</color>
+    <color name="loct_background">#dbdbdb</color>
+
+    <color name="divider_color">#b5b5b5</color>
+    <color name="text_false">#b5b5b5</color>
+
+    <color name="text_color">#222222</color>
+    <color name="white_background">#FFFFFF</color>
+    <color name="ye_background">#FEFD58</color>
+    <color name="button_background">#8a8a8a</color>
+
+    <!--chat login color-->
+    <color name="chat_login_edtext_bg">#B0FEFD98</color>
+    <color name="chat_login_edtext_hint">#A3994F</color>
+    <color name="chat_login_button_registered">#FF7200</color>
+
+    <!--chat login color-->
+    <color name="chat_register_edtext_bg">#B0FEFD98</color>
+    <color name="chat_register_edtext_hint">#A3994F</color>
+    <color name="chat_register_button_registered">#FF7200</color>
+
+    <!--chat color-->
+    <color name="chat_draglayout_view">#7B7B7B</color>
+    <color name="chat_button_layout_bg">#BEBEBE</color>
+    <color name="chat_listview_bg">#FFFDEB</color>
+
+
+    <!--main color-->
+
+    <color name="sms_main_device_contected_color">#C8C8C8</color>
+
+    <!--ble color-->
+
+    <color name="sms_main_device_scnn_color">#CCFFFFFF</color>
+    <color name="sms_main_device_setting_bg">#33000000</color>
+
+
+
+    <!--dialog button color-->
+
+    <color name="sms_dialog_button_cancel_color">#808080</color>
+    <color name="sms_dialog_button_ok_color">#000000</color>
+    <color name="sms_dialog_button_green_color">#199570</color>
+    <color name="sms_dialog_button_blue_color">#145B87</color>
+    <color name="sms_dialog_layout_bg_color">#A00000</color>
+
+
+
+
+    <color name="bg_white_light_1">#f3f3f3</color>
+    <color name="bg_white_light_2">#e4e4e4</color>
+
+
+
+
+</resources>

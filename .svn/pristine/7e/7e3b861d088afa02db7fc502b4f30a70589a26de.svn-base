@@ -1,0 +1,17 @@
+D:/xm/smsInterhone/app/src/main/obj/local/arm64-v8a/objs/speex/./wedrtc/digital_agc.o: \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/digital_agc.c \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/digital_agc.h \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/signal_processing_library.h \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/typedefs.h \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/spl_inl.h \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/gain_control.h
+
+D:/xm/smsInterhone/app/src/main/jni/./wedrtc/digital_agc.h:
+
+D:/xm/smsInterhone/app/src/main/jni/./wedrtc/signal_processing_library.h:
+
+D:/xm/smsInterhone/app/src/main/jni/./wedrtc/typedefs.h:
+
+D:/xm/smsInterhone/app/src/main/jni/./wedrtc/spl_inl.h:
+
+D:/xm/smsInterhone/app/src/main/jni/./wedrtc/gain_control.h:

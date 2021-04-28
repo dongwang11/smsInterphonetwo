@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+     android:layout_height="match_parent"
+    android:background="@mipmap/beijinghui">
+
+    <ImageView
+        android:id="@+id/img_start"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@mipmap/beijingone"
+        android:scaleType="centerCrop"
+        android:adjustViewBounds="true"/>
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@mipmap/beijinghui"
+        android:scaleType="centerCrop"
+        android:adjustViewBounds="true"/>
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="90dp"
+        android:gravity="center_horizontal">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/multi_person_travel"
+                    android:textColor="@color/white"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginBottom="@dimen/tool_bar_height"
+                    android:textSize="@dimen/title_text_size"/>
+              <!--  <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/As_a_global_leader"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/tool_bar_text_size"
+                    android:layout_alignParentBottom="true"
+                    android:layout_margin="@dimen/text_top_padding" />-->
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@mipmap/beijingwenzi"
+                android:scaleType="centerCrop"
+                android:adjustViewBounds="true"
+                android:layout_margin="@dimen/text_top_padding" />
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>

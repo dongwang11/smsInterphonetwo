@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/chat_draglayout_bg"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal">
+
+        <include layout="@layout/fragment_map_layout_tracking" />
+
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/ble_scrollView"
+            android:orientation="vertical"
+            android:padding="10dp">
+
+
+
+            <RelativeLayout
+                android:id="@+id/ble_set_bw_layout"
+                android:layout_width="match_parent"
+                android:layout_marginTop="5dp"
+                android:background="@color/sms_main_device_setting_bg"
+                android:layout_height="50dp"
+                android:visibility="gone">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/white"
+                    android:layout_centerVertical="true"
+                    android:textSize="18sp"
+                    android:layout_marginLeft="15dp"
+                    android:text="@string/sms_ble_setting_bw" />
+
+                <com.sms.app.interphone.view.SwitchButton
+
+                    xmlns:app="http://schemas.android.com/apk/res/com.sms.app.interphone"
+
+                    android:id="@+id/ble_set_swit_bw"
+                    android:layout_width="50dp"
+                    android:layout_height="25dp"
+                    android:layout_gravity="center|top"
+                    android:layout_centerVertical="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="15dp"
+                    app:bgColor="@color/nitecore"
+                    app:leftColor="@color/white"
+                    app:rightColor="@color/white"
+                    app:textLeft="W"
+                    app:textLeftClickColor="@color/nitecore"
+                    app:textLeftColor="@color/white"
+                    app:textRight="N"
+                    app:textRightClickColor="@color/nitecore"
+                    app:textRightColor="@color/white"
+                    />
+
+
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:id="@+id/ble_set_voice_layout"
+                android:layout_width="match_parent"
+                android:layout_marginTop="5dp"
+                android:background="@color/sms_main_device_setting_bg"
+                android:layout_height="50dp"
+                android:visibility="gone">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/white"
+                    android:layout_centerVertical="true"
+                    android:textSize="18sp"
+                    android:layout_marginLeft="15dp"
+                    android:text="@string/sms_ble_setting_voice" />
+
+                <com.sms.app.interphone.view.SwitchButton
+
+                    xmlns:app="http://schemas.android.com/apk/res/com.sms.app.interphone"
+
+                    android:id="@+id/ble_set_swit_voice"
+                    android:layout_width="50dp"
+                    android:layout_height="25dp"
+                    android:layout_gravity="center|top"
+                    android:layout_centerVertical="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="15dp"
+                    app:bgColor="@color/nitecore"
+                    app:leftColor="@color/white"
+                    app:rightColor="@color/white"
+                    app:textLeft="Y"
+                    app:textLeftClickColor="@color/nitecore"
+                    app:textLeftColor="@color/white"
+                    app:textRight="N"
+                    app:textRightClickColor="@color/nitecore"
+                    app:textRightColor="@color/white" />
+
+            </RelativeLayout>
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

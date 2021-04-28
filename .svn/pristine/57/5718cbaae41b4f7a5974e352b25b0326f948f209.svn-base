@@ -1,0 +1,2214 @@
+[
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_list_menu_item_radio.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_sms_ble_search_device.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\sms_ble_search_device.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_boxicon_link.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\boxicon_link.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_list_menu_item_icon.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_hite.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\activity_hite.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_device_power_0.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\device_power_0.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_ws.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\activity_ws.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_selector_left_true.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\selector_left_true.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-hdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_device.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\fragment_device.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_selector_send_button.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\selector_send_button.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_chat_button_open.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\chat_button_open.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_histruy_group.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\activity_histruy_group.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_action_bar_up_container.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_seekbar_tick_mark_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_tracking_button_start_style.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\tracking_button_start_style.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_boxicon_mapswitch.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\boxicon_mapswitch.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_switch_thumb_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_selector_right_false.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\selector_right_false.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_device_icon_0.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\device_icon_0.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_ic_stat_notify_dfu.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\dfu-1.6.1.aar\\be62cb3b5bf66f8601bd5a84019c7df0\\res\\drawable-hdpi-v4\\ic_stat_notify_dfu.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\ffbc2e3045032938d4cff32321efa297\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_dialog_button_mapswitch_baidu_style.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\dialog_button_mapswitch_baidu_style.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_screen_simple.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\ffbc2e3045032938d4cff32321efa297\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\raw_beep.ogg.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_sms_adv.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\sms_adv.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_bluetooth_device_item.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\bluetooth_device_item.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\ffbc2e3045032938d4cff32321efa297\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\ffbc2e3045032938d4cff32321efa297\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_dialog_link_layout.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\dialog_link_layout.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_dialog_ble_set_ctcss.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\dialog_ble_set_ctcss.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\ffbc2e3045032938d4cff32321efa297\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_ic_action_notify_cancel.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\dfu-1.6.1.aar\\be62cb3b5bf66f8601bd5a84019c7df0\\res\\drawable-hdpi-v4\\ic_action_notify_cancel.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\color-v23_abc_tint_default.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_list_selector_holo_dark.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_map_offline_button_maplist_style.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\map_offline_button_maplist_style.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\color_abc_tint_switch_track.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_voice_3_left.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\voice_3_left.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_sms_main_profile_status_linked.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\sms_main_profile_status_linked.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_icon_chat.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\icon_chat.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_dialog_button_login_ok_style.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\dialog_button_login_ok_style.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\color-v11_abc_background_cache_hint_selector_material_dark.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_trjectory_item.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\trjectory_item.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_grow_fade_in_from_bottom.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_settings.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_chat_login_log_n.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\chat_login_log_n.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_ic_menu_overflow_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_abc_edit_text_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\ffbc2e3045032938d4cff32321efa297\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_chat_button_login_selector.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\chat_button_login_selector.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\ffbc2e3045032938d4cff32321efa297\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_voice_2_right.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\voice_2_right.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_sms_main_map_location1.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\sms_main_map_location1.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_popup_menu_header_item_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_positionred.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\positionred.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_item_background_holo_dark.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-hdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\ffbc2e3045032938d4cff32321efa297\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-ldrtl-xhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_tracking.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\activity_tracking.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_bgblue_lineblue.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\bgblue_lineblue.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_blescan.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\activity_blescan.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\color-v23_abc_tint_seek_thumb.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_voice_1_left.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\voice_1_left.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\color_abc_tint_btn_checkable.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_map_layout_location.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\fragment_map_layout_location.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\ffbc2e3045032938d4cff32321efa297\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_chat_login_edtext_verification1.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\chat_login_edtext_verification1.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_list_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_tracking_button_over_style.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\tracking_button_over_style.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_seekbar_thumb_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_ic_voice_search_api_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_cab_background_internal_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_selector_right_item.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\selector_right_item.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_timg.jpg.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\timg.jpg"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_register.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_selector_button_voice_false.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\selector_button_voice_false.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_ic_action_notify_cancel.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\dfu-1.6.1.aar\\be62cb3b5bf66f8601bd5a84019c7df0\\res\\drawable-xhdpi-v4\\ic_action_notify_cancel.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_up_data.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\activity_up_data.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_popup_exit.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_item_background_holo_light.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-v23_abc_control_background_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_tracking_start_button_selector.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\tracking_start_button_selector.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_btn_default_mtrl_shape.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_cab_background_top_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ico_faq.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\ico_faq.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_boxicon_error.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\boxicon_error.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_offilne_one_item.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\offilne_one_item.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_chat_listview_header.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\chat_listview_header.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\anim_shake.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\anim\\shake.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_dialog_ble_set_vox.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\dialog_ble_set_vox.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_slide_in_top.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_btn_download_black.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\btn_download_black.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\ffbc2e3045032938d4cff32321efa297\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\color_abc_secondary_text_material_light.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_voice_1_right.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\voice_1_right.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_fade_out.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_ratingbar_small_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\color_abc_primary_text_material_dark.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_ic_ab_back_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_tab_indicator_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_login.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_btn_radio_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_dialog_login_layout.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\dialog_login_layout.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\color_abc_search_url_text.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_chat_list_liem_lefe.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\chat_list_liem_lefe.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_histruy_group_item.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\histruy_group_item.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_title_switch_icon.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\title_switch_icon.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_list_selector_holo_light.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_lines.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_chat_login_edtext_verification.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\chat_login_edtext_verification.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_dialog_warning_layout.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\dialog_warning_layout.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_chat_button_layout_bg.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\chat_button_layout_bg.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\color-v23_abc_tint_spinner.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_seekbar_track_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-ldrtl-xxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ble_icon_sou.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\ble_icon_sou.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_abc_btn_colored_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_dialog_edtext_bg.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\dialog_edtext_bg.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_dialog_material_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_list_selector_background_transition_holo_light.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_selector_item.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\selector_item.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_dialog_button_warning_cancel_style.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\dialog_button_warning_cancel_style.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_textfield_search_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_icon_end.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\icon_end.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_voice_2_left.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\voice_2_left.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\ffbc2e3045032938d4cff32321efa297\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\anim_cycle_7.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\anim\\cycle_7.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_offline_localmap_item.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\offline_localmap_item.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_chat_button_message_false.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\chat_button_message_false.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_selector_left_item.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\selector_left_item.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_speaker_left.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\speaker_left.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\color-v23_abc_tint_btn_checkable.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\color-v23_abc_tint_switch_thumb.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\color-v23\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\ffbc2e3045032938d4cff32321efa297\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_sms_main_ico_profile.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\sms_main_ico_profile.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_chat_draglayout_bg.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\chat_draglayout_bg.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\color-v23_abc_btn_colored_borderless_text_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_messsage_text_hite_bg.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\messsage_text_hite_bg.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_chat_button_bg.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\chat_button_bg.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_select_dialog_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_btn_download_gray.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\btn_download_gray.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_chat_list_liem_right.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\chat_list_liem_right.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\ffbc2e3045032938d4cff32321efa297\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_spinner_textfield_background_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_offline.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\activity_offline.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_map_offline_button_textcolor_selector.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\map_offline_button_textcolor_selector.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_list_item_chat_right.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\list_item_chat_right.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_baidumap_item_icon_to.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\baidumap_item_icon_to.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_chat_message_left_bg.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\chat_message_left_bg.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_boxicon_scuess.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\boxicon_scuess.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_selector_left_false.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\selector_left_false.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_btn_edit.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\btn_edit.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\ffbc2e3045032938d4cff32321efa297\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\color_abc_primary_text_disable_only_material_dark.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_action_bar_title_item.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_select_dialog_multichoice_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_dialog_mapswitch_layout.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\dialog_mapswitch_layout.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_chat_button_voice_true.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\chat_button_voice_true.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_icon_capture_album.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\icon_capture_album.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_list_item_chat_one.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\list_item_chat_one.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\color_abc_tint_edittext.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_alert_dialog_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_sms_main_profile_ico_wifi.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\sms_main_profile_ico_wifi.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\ffbc2e3045032938d4cff32321efa297\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_slide_in_bottom.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_icon_capture_line.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\icon_capture_line.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_dialog_button_mapswitch_satellite_style.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\dialog_button_mapswitch_satellite_style.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_dialog_layout_bg.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\dialog_layout_bg.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_search_view.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_dialog_ble_updata_layout.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\dialog_ble_updata_layout.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_sms_ble_option.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\sms_ble_option.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\color_abc_tint_switch_thumb.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_chat_listview_header.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\chat_listview_header.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_selector_capture_round.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\selector_capture_round.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_chat_login_log.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\chat_login_log.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_chat_login_edtext_passwd.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\chat_login_edtext_passwd.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_chat_button_registered_selector.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\chat_button_registered_selector.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_btn_check_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_selector_right_true.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\selector_right_true.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_web_view.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\activity_web_view.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_sms_main_bt_chat.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\sms_main_bt_chat.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\ffbc2e3045032938d4cff32321efa297\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\color_abc_tint_spinner.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_btn_delete_black.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\btn_delete_black.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_activity_chooser_view.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_ratingbar_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_sms_chat_item_erro.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\sms_chat_item_erro.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\ffbc2e3045032938d4cff32321efa297\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\ffbc2e3045032938d4cff32321efa297\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\color_abc_btn_colored_borderless_text_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_grid_item_ble_set_ctcss.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\grid_item_ble_set_ctcss.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\xml_file_path.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\xml\\file_path.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_smslog.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\smslog.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_dialog_freq_layout_bg.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\dialog_freq_layout_bg.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_icon_capture_light.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\icon_capture_light.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_sms_ble_singel.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\sms_ble_singel.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_menu_ico_emptydate.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\menu_ico_emptydate.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ico_mail.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\ico_mail.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\color-v23_abc_tint_switch_track.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_chat_login_edtext_name.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\chat_login_edtext_name.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_ic_clear_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_selector_left_message_bg.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\selector_left_message_bg.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_action_bar_view_list_nav_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\ffbc2e3045032938d4cff32321efa297\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_speaker_right.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\speaker_right.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_slide_out_bottom.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_map_offline_button_downloaded_style.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\map_offline_button_downloaded_style.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_shrink_fade_out_from_bottom.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_tracking_button_stop_style.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\tracking_button_stop_style.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\ffbc2e3045032938d4cff32321efa297\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ico_about.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\ico_about.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_expanded_menu_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_chat_draglayout_view_1.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\chat_draglayout_view_1.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_dialog_scuess_layout.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\dialog_scuess_layout.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_boxicon_new_group.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\boxicon_new_group.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ico_checkupdate.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\ico_checkupdate.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_icon_general_arrow_left.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\icon_general_arrow_left.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\color_abc_tint_seek_thumb.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_screen_content_include.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_bg92black_lineblack.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\bg92black_lineblack.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_selector_loct_button.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\selector_loct_button.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_sms_main_map_location2.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\sms_main_map_location2.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_dialog_button_login_cancel_style.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\dialog_button_login_cancel_style.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_ic_stat_notify_dfu.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\dfu-1.6.1.aar\\be62cb3b5bf66f8601bd5a84019c7df0\\res\\drawable-xhdpi-v4\\ic_stat_notify_dfu.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_dialog_edtext_layout.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\dialog_edtext_layout.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_sms_return_icon2.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\sms_return_icon2.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\color_abc_primary_text_disable_only_material_light.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\color-v23_abc_tint_edittext.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_ble_scan_button_selector.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\ble_scan_button_selector.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\color_abc_secondary_text_material_dark.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_ic_go_search_api_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_menu_text_color_selector.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\menu_text_color_selector.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ico_feedback.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\ico_feedback.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_btn_delete_gray.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\btn_delete_gray.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\color_switch_thumb_material_dark.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_selector_button.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\selector_button.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_btn_borderless_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_abc_action_bar_item_background_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_password.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\activity_password.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_dialog_ble_set_freq.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\dialog_ble_set_freq.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_dialog_button_style.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\dialog_button_style.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_sms_return_icon1.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\sms_return_icon1.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_device.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\activity_device.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_ratingbar_indicator_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_dialog_warning_bg.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\dialog_warning_bg.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_device_layout_bg.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\device_layout_bg.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_chat_button_titlehint_false.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\chat_button_titlehint_false.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\raw_realm_properties.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\raw\\realm_properties"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\color_switch_thumb_material_light.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_vector_test.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_chat.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_action_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_map.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-mdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_menu_ico_viewhistory.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\menu_ico_viewhistory.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_shou8.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\shou8.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_dialog_erreo_layout.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\dialog_erreo_layout.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_baidumap_item_icon.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\baidumap_item_icon.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\ffbc2e3045032938d4cff32321efa297\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_menu_ico_unbundling.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\menu_ico_unbundling.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\ffbc2e3045032938d4cff32321efa297\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_text_cursor_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_boxicon_login.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\boxicon_login.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_group.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\activity_group.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_menu_ico_trackingrecord.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\menu_ico_trackingrecord.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ico_usermanul.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\ico_usermanul.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_sms_chat_item_erro_hite.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\sms_chat_item_erro_hite.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_map_layout_tracking.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\fragment_map_layout_tracking.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_slide_out_top.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_sms_main_bt_map.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\sms_main_bt_map.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_select_dialog_item_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\ffbc2e3045032938d4cff32321efa297\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\color-v11_abc_background_cache_hint_selector_material_light.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\color_abc_tint_default.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_chat_button_voice_false.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\chat_button_voice_false.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\xml_yourfilename.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\xml\\yourfilename.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_icon_start.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\icon_start.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_selector_button_voice_true.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\selector_button_voice_true.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_chat_login_bg.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\chat_login_bg.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_map.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\fragment_map.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_voice_3_right.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\voice_3_right.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_wi.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\activity_wi.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_ic_search_api_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_sms_main_bt_linked.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\sms_main_bt_linked.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_boxicon_waring.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\boxicon_waring.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_fade_in.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_icon_gcoding.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\icon_gcoding.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_screen_toolbar.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_selector_rigth_message_bg.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\selector_rigth_message_bg.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_welcome.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_chat_button_titlehint_true.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\chat_button_titlehint_true.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ico_mobile.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\ico_mobile.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\color_abc_primary_text_material_light.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_chat_login_edtext_email.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\chat_login_edtext_email.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_chat_button_message_true.xml.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\chat_button_message_true.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_action_menu_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\color-v23_abc_color_highlight_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\ffbc2e3045032938d4cff32321efa297\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-ldrtl-hdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_action_mode_bar.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_pull_to_refresh_arrow.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\mipmap-hdpi\\pull_to_refresh_arrow.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable_chat_button_bg.9.png.flat",
+        "source": "G:\\Android\\smsInterhone\\app\\src\\main\\res\\drawable\\chat_button_bg.9.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_popup_enter.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "G:\\Android\\smsInterhone\\app\\build\\intermediates\\res\\merged\\release\\layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\f055ae3009b9653e9446cb66e2690086\\res\\layout\\select_dialog_singlechoice_material.xml"
+    }
+]

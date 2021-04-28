@@ -1,0 +1,14 @@
+D:/xm/smsInterhone/app/src/main/obj/local/x86/objs/speex/./wedrtc/real_fft.o: \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/real_fft.c \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/real_fft.h \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/typedefs.h \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/signal_processing_library.h \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/spl_inl.h
+
+D:/xm/smsInterhone/app/src/main/jni/./wedrtc/real_fft.h:
+
+D:/xm/smsInterhone/app/src/main/jni/./wedrtc/typedefs.h:
+
+D:/xm/smsInterhone/app/src/main/jni/./wedrtc/signal_processing_library.h:
+
+D:/xm/smsInterhone/app/src/main/jni/./wedrtc/spl_inl.h:

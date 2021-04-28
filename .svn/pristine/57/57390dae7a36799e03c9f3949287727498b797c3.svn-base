@@ -1,0 +1,23 @@
+D:/xm/smsInterhone/app/src/main/obj/local/x86/objs/speex/./wedrtc/noise_suppression_x.o: \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/noise_suppression_x.c \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/noise_suppression_x.h \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/typedefs.h \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/real_fft.h \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/nsx_core.h \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/signal_processing_library.h \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/spl_inl.h \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/nsx_defines.h
+
+D:/xm/smsInterhone/app/src/main/jni/./wedrtc/noise_suppression_x.h:
+
+D:/xm/smsInterhone/app/src/main/jni/./wedrtc/typedefs.h:
+
+D:/xm/smsInterhone/app/src/main/jni/./wedrtc/real_fft.h:
+
+D:/xm/smsInterhone/app/src/main/jni/./wedrtc/nsx_core.h:
+
+D:/xm/smsInterhone/app/src/main/jni/./wedrtc/signal_processing_library.h:
+
+D:/xm/smsInterhone/app/src/main/jni/./wedrtc/spl_inl.h:
+
+D:/xm/smsInterhone/app/src/main/jni/./wedrtc/nsx_defines.h:

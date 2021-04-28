@@ -1,0 +1,11 @@
+D:/xm/smsInterhone/app/src/main/obj/local/armeabi-v7a/objs/speex/./wedrtc/min_max_operations.o: \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/min_max_operations.c \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/signal_processing_library.h \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/typedefs.h \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/spl_inl.h
+
+D:/xm/smsInterhone/app/src/main/jni/./wedrtc/signal_processing_library.h:
+
+D:/xm/smsInterhone/app/src/main/jni/./wedrtc/typedefs.h:
+
+D:/xm/smsInterhone/app/src/main/jni/./wedrtc/spl_inl.h:

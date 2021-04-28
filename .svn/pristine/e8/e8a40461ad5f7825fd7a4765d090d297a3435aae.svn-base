@@ -1,0 +1,35 @@
+D:/xm/smsInterhone/app/src/main/obj/local/x86_64/objs/speex/speex_jni.o: \
+  D:/xm/smsInterhone/app/src/main/jni/speex_jni.cpp \
+  D:/xm/smsInterhone/app/src/main/jni/include\speex/speex.h \
+  D:/xm/smsInterhone/app/src/main/jni/include\speex/speex_bits.h \
+  D:/xm/smsInterhone/app/src/main/jni/include\speex/speex_types.h \
+  D:/xm/smsInterhone/app/src/main/jni/include\speex/speex_config_types.h \
+  D:/xm/smsInterhone/app/src/main/jni/include\speex/speex_preprocess.h \
+  D:/xm/smsInterhone/app/src/main/jni/wedrtc/signal_processing_library.h \
+  D:/xm/smsInterhone/app/src/main/jni/wedrtc/typedefs.h \
+  D:/xm/smsInterhone/app/src/main/jni/wedrtc/spl_inl.h \
+  D:/xm/smsInterhone/app/src/main/jni/wedrtc/noise_suppression_x.h \
+  D:/xm/smsInterhone/app/src/main/jni/wedrtc/noise_suppression.h \
+  D:/xm/smsInterhone/app/src/main/jni/wedrtc/gain_control.h
+
+D:/xm/smsInterhone/app/src/main/jni/include\speex/speex.h:
+
+D:/xm/smsInterhone/app/src/main/jni/include\speex/speex_bits.h:
+
+D:/xm/smsInterhone/app/src/main/jni/include\speex/speex_types.h:
+
+D:/xm/smsInterhone/app/src/main/jni/include\speex/speex_config_types.h:
+
+D:/xm/smsInterhone/app/src/main/jni/include\speex/speex_preprocess.h:
+
+D:/xm/smsInterhone/app/src/main/jni/wedrtc/signal_processing_library.h:
+
+D:/xm/smsInterhone/app/src/main/jni/wedrtc/typedefs.h:
+
+D:/xm/smsInterhone/app/src/main/jni/wedrtc/spl_inl.h:
+
+D:/xm/smsInterhone/app/src/main/jni/wedrtc/noise_suppression_x.h:
+
+D:/xm/smsInterhone/app/src/main/jni/wedrtc/noise_suppression.h:
+
+D:/xm/smsInterhone/app/src/main/jni/wedrtc/gain_control.h:

@@ -1,0 +1,401 @@
+<resources>
+    <string name="app_name">Global Walkie</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="scan_qrcode">将二维码放入框内, 即可自动扫描</string>
+
+    <string name="device">---</string>
+
+    <string name="other">其他</string>
+    <string name="isupdata">正在下载</string>
+
+
+    <string name="write_sd">存储</string>
+    <string name="camera">相机</string>
+    <string name="location">定位</string>
+    <string name="audio">录音</string>
+
+
+
+    <!--sms String hite-->
+    <string name="cancel">取消</string>
+    <string name="ok">确定</string>
+
+    <string name="sms_ble_setting_device_scan">点击连接设备</string>
+    <string name="sms_ble_setting_device_ok">点击切换设备</string>
+
+
+    <string name="sms_ble_setting_device_name">设备名字</string>
+    <string name="sms_ble_setting_tx_code">发送亚音频</string>
+
+    <string name="sms_ble_setting_freq_code">频道</string>
+
+    <string name="sms_ble_setting_rx_code">接收亚音频</string>
+
+    <string name="sms_ble_setting_freq">频率</string>
+    <string name="sms_ble_setting_sq">静噪等级</string>
+    <string name="sms_ble_setting_vox">VOX等级</string>
+    <string name="sms_ble_setting_volt">电池电压</string>
+
+    <string name="sms_ble_setting_tx_hite">发送提示音开关</string>
+    <string name="sms_ble_setting_stop_hite">尾音消除开关</string>
+
+    <string name="sms_ble_setting_disconnect">断开连接提示</string>
+
+    <string name="sms_ble_setting_voice">实时播放语音</string>
+
+
+
+    <string name="sms_ble_setting_bw">带宽模式</string>
+    <string name="sms_ble_setting_rf">Rf开关</string>
+    <string name="sms_ble_setting_tx_power">发射功率</string>
+
+    <string name="sms_ble_setting_tx_power_low">低</string>
+    <string name="sms_ble_setting_tx_power_middle">中</string>
+    <string name="sms_ble_setting_tx_power_tall">高</string>
+
+
+    <string name="sms_ble_setting_rf_off">关</string>
+    <string name="sms_ble_setting_rf_on">开</string>
+    <string name="sms_ble_setting_rf_automate">自动</string>
+
+    <string name="sms_ble_setting_factory_reset">恢复出厂设置</string>
+
+    <string name="sms_ble_setting_updata_Firmware">检查更新</string>
+
+    <string name="sms_ble_setting_hite_updata_Firmware">本地没有固件</string>
+
+    <string name="sms_ble_setting_hite_updata_Firmware_hard">硬件版本：</string>
+    <string name="sms_ble_setting_hite_updata_Firmware_soft">当前固件版本：</string>
+
+
+    <string name="sms_ble_setting_hite_name_title">设置设备名字</string>
+    <string name="sms_ble_setting_hite_name_content">请输入名字</string>
+    <string name="sms_ble_setting_hite_edtext">输入不能为空</string>
+
+    <string name="sms_ble_setting_hite_dialog">正在设置</string>
+    <string name="sms_ble_setting_hite_toast">RF开关处于自动状态，无法更改亚音频及频率，请先打开！</string>
+
+    <string name="sms_main_icon_hite_toast">未找到存储卡，无法存储照片！</string>
+
+    <string name="sms_main_erro_hite_layout">网络连接异常,请稍后重试</string>
+
+
+    <string name="sms_ble_setting_phone">蓝牙音乐开关</string>
+
+
+    <!--login XML String-->
+
+    <string name="chat_login_text_hint_erro">网络连接异常,请稍后重试</string>
+
+    <string name="chat_login_edtext_name_hint">账号 小写</string>
+
+    <string name="chat_login_edtext_password_hint">密码</string>
+
+    <string name="chat_login_text_button">SIGH IN WITH FACEBOOK</string>
+
+    <!--login java String -->
+
+    <string name="chat_login_text_hint_account">账号不能为空</string>
+
+    <string name="chat_login_text_hint_login">正在登录</string>
+
+    <string name="chat_login_text_hint_login_erro">登录异常,请检查账号，密码，稍后重试</string>
+
+    <string name="chat_login_text_hint_login_erro_hite">账号在另一台设备上登录，请重新登录</string>
+
+
+    <!--login java String -->
+
+    <string name="sms_chat_wi_hite_title">扫描二维码</string>
+
+    <string name="sms_chat_wi_hite_content">将二维码放入框内，即可自动扫描</string>
+
+    <string name="sms_chat_wi_hite_erro">扫描失败</string>
+
+
+
+
+
+    <string name="chat_login_text_hint_Login_successful">登录成功</string>
+
+
+    <string name="chat_login_text_hint_Login_password">找回邮件已成功发送，请点击邮件链接找回密码，请注意查收</string>
+
+    <string name="chat_login_text_password">正在发送</string>
+
+    <string name="chat_text_hite_button">录音时间太短</string>
+
+    <string name="chat_type_title_join">公网在线</string>
+    <string name="chat_type_title_exit">公网离线</string>
+    <string name="chat_type_title_leave">退出群聊</string>
+    <string name="chat_type_title_j">加入群聊</string>
+
+
+
+
+
+
+    <!-- password XML String -->
+
+
+    <!--register XML String -->
+
+
+    <string name="chat_register_edtext_name_hint">账号</string>
+
+    <string name="chat_register_edtext_password_hint">密码</string>
+
+    <string name="chat_register_edtext_email_hint">邮箱</string>
+
+    <string name="chat_register_edtext_verification_hint">验证码</string>
+
+    <string name="chat_register_edtext_confirm_password_hint">确认密码</string>
+
+    <string name="chat_register_button_register">注册</string>
+
+    <string name="chat_register_button_verification">获取验证码</string>
+
+    <string name="chat_register_button_conditions">相关条款 ＆ 条件</string>
+
+    <string name="chat_register_text_button_hint">已经有一个账户</string>
+
+    <string name="chat_register_text_button_here">这里.</string>
+
+    <string name="chat_register_text_login">登录</string>
+
+
+    <!--register java String -->
+
+    <string name="chat_register_text_sending_verification">正在发送验证码</string>
+
+    <string name="chat_register_text_email_erro">邮箱不能为空</string>
+
+    <string name="chat_register_text_email_erro_hite">获取验证码失败，请重新获取</string>
+
+
+    <string name="chat_register_text_account_null">账号不能为空</string>
+
+    <string name="chat_register_text_account_name_null">账号不合法，请重新输入</string>
+
+
+    <string name="chat_register_text_account_erro">账号不合法或者已存在,请重新输入</string>
+
+    <string name="chat_register_text_verification_erro">验证码不正确或者超时，请重新获取验证码</string>
+
+    <string name="chat_register_text_verification">验证码不能为空</string>
+
+
+    <string name="chat_register_text_password_erro">密码不能为空</string>
+    <string name="chat_register_text_password_erro_hite">密码不正确请重新输入</string>
+
+    <string name="chat_register_text_hint_register">正在注册</string>
+
+    <string name="chat_register_text_hint_register_successful">注册成功</string>
+
+    <string name="chat_register_text_hint_register_erro">注册失败</string>
+
+    <string name="chat_register_text_hint_register_ok">请注意查收验证码</string>
+
+    <string name="chat_register_text_hint_register_erro_is">这个邮箱已经注册了</string>
+
+    <string name="chat_register_button_verification_erro">重新获取</string>
+
+    <string name="chat_register_networkinfo_erro">请检查网络连接，稍后重试</string>
+
+
+    <!--password XML String -->
+
+    <!--chat XML String -->
+
+    <string name="chat_draglayout_text_sharegroup">分享聊天室</string>
+    <string name="chat_draglayout_text_newgroup">新建聊天室</string>
+    <string name="chat_draglayout_text_histroy">历史聊天室</string>
+    <string name="chat_draglayout_text_joingroup">进入聊天室</string>
+    <string name="chat_draglayout_text_leavegroup">退出聊天室</string>
+    <string name="chat_draglayout_text_dervice">设备信息</string>
+
+
+    <string name="chat_draglayout_text_histroy_list">聊天室列表</string>
+
+
+    <string name="chat_draglayout_text_ptt">PTT</string>
+
+    <string name="chat_draglayout_text_send">发送</string>
+
+    <string name="chat_title_text">聊天室</string>
+
+    <!--sms main XML String -->
+
+    <string name="sms_main_draglayout_right_location_tracking">轨迹</string>
+    <string name="sms_main_draglayout_right_location_share">位置共享</string>
+    <string name="sms_main_draglayout_right_Offline_maps">离线地图</string>
+    <string name="sms_main_draglayout_right_map_switch">切换地图</string>
+    <string name="sms_main_draglayout_right_tracking_record">轨迹记录</string>
+
+    <string name="sms_main_draglayout_left_settings">设置</string>
+
+
+    <string name="sms_main_user_name">登录</string>
+    <string name="sms_main_device_contected">设备传输频率</string>
+    <string name="sms_main_device_freq">------</string>
+
+    <string name="sms_main_sign_out">切换账号</string>
+    <string name="sms_main_mapview">地图</string>
+    <string name="sms_main_device">设备</string>
+
+    <string name="sms_main_toast_hite_connect_device">请先连接设备</string>
+    <string name="sms_main_toast_hite_user">账户为空，请先登录</string>
+
+    <string name="sms_main_toast_hite_updata">当前已经是最新版本</string>
+
+    <string name="sms_main_toast_hite_apply">加入房间申请已经提交，等待审核</string>
+    <string name="sms_main_diolog_title">聊天室系统消息</string>
+    <string name="sms_main_diolog_content_a">申请加入聊天室,是否同意？</string>
+    <string name="sms_main_diolog_content_b">群主已经同意你的加入，是否马上进入聊天室</string>
+    <string name="sms_main_diolog_content_c">群主拒绝了你的加入</string>
+    <string name="sms_main_diolog_checkbox">私密群</string>
+
+
+
+
+    <string name="sms_main_updata_apk">更新</string>
+
+    <string name="sms_main_hite_aprs">位置共享失败，请连接设备！</string>
+
+    <string name="sms_main_hite_voice">麦克风</string>
+    <string name="sms_main_hite_location">位置</string>
+    <string name="sms_main_hite_storage">本地存储</string>
+
+
+    <string name="sms_main_hite_icon">选择头像来源</string>
+    <string name="sms_main_hite_icon_photo_camera">相机</string>
+    <string name="sms_main_hite_icon_photo_album">相册</string>
+    <string name="sms_main_hite_please_later">请稍后</string>
+    <string name="sms_main_hite_key_down">再次点击退出</string>
+
+    <string name="sms_dialog_hite">提示</string>
+    <string name="sms_dialog_hite_permission">需要设置权限才能使用，请去设置界面打开权限</string>
+
+    <string name="sms_dialog_hite_permission_up">取消</string>
+    <string name="sms_dialog_hite_permission_ok">设置</string>
+
+    <string name="sms_dialog_gps_hite">请打开GPS</string>
+
+
+    <!--sms ble XML String -->
+
+    <string name="sms_ble_scnn_title">搜索设备</string>
+
+    <!--sms settings XML String -->
+
+    <string name="sms_settings_manual">用户手册</string>
+    <string name="sms_settings_faq">常见问题</string>
+    <string name="sms_settings_feedback">反馈</string>
+    <string name="sms_settings_update">检查更新</string>
+    <string name="sms_settings_about">产品说明书</string>
+
+    <!--sms dialog XML String -->
+
+    <string name="sms_dialog_login_title">需要登录</string>
+    <string name="sms_dialog_login_content">有些函数需要登录。单击OK以登录或单击Cancel跳过。但有些功能将被禁用。</string>
+
+    <string name="sms_dialog_mapswitch_title">选择地图</string>
+    <string name="sms_dialog_mapswitch_content">请选择要使用的地图数据</string>
+
+    <string name="sms_dialog_mapswitch_button_baidumaps">百度地图</string>
+    <string name="sms_dialog_mapswitch_button_satellitemaps">卫星地图</string>
+
+    <string name="sms_dialog_warning_title">数据将永远丢失！</string>
+    <string name="sms_dialog_warning_content">当您退出组时，所有数据都将被删除。所有的数据都不能被重新编码。你确定要退出吗？</string>
+
+    <string name="sms_dialog_link_title">所需设备的链接</string>
+    <string name="sms_dialog_link_content">有些功能需要连接设备。单击OK链接或单击Cancel跳过。但有些功能将被禁用。</string>
+
+    <string name="sms_dialog_erreo_title">新建聊天室失败</string>
+    <string name="sms_dialog_erreo_content">请检查网络连接，并再次尝试新的群组。</string>
+
+    <string name="sms_dialog_scuess_title">已经创建了聊天室！</string>
+    <string name="sms_dialog_scuess_content">请通过聊天区域享受群组功能。你可以发送文本、图像和音频！</string>
+
+    <string name="sms_dialog_edtext_group_title">新建聊天室</string>
+    <string name="sms_dialog_edtext_group_hite">设置聊天室名称</string>
+
+    <string name="sms_dialog_edtext_leavegroup_hite">是否退出当前群聊?</string>
+
+    <string name="sms_dialog_factory_reset_title">恢复出厂设置</string>
+    <string name="sms_dialog_factory_reset_content">你确定恢复出厂设置吗？所有数据将无法恢复！</string>
+
+
+    <!--sms oppline map XML String -->
+
+    <string name="sms_map_offline_title">离线地图</string>
+    <string name="sms_map_downloaded">下载</string>
+    <string name="sms_map_mapslist">地图列表</string>
+    <string name="sms_map_downloaded_maps">已下载的地图</string>
+    <string name="sms_map_delete_all">全部删除</string>
+    <string name="sms_map_popular_cities">热门城市</string>
+    <string name="sms_map_asia_cities">城市列表</string>
+
+    <string name="sms_map_delete_offline_maps_title">删除所有离线地图</string>
+    <string name="sms_map_delete_offline_maps_content">你想删除所有离线地图吗？</string>
+
+
+    <!--sms tracking map XML String -->
+
+    <string name="sms_tracking_record_review">查询轨迹记录</string>
+    <string name="sms_tracking_list">轨迹列表</string>
+    <string name="sms_tracking_delete_all_hite">全部删除</string>
+
+    <string name="sms_tracking_delete_title">删除轨迹</string>
+    <string name="sms_tracking_delete_content">你确定要删除这条轨迹记录吗？将无法恢复！</string>
+
+    <string name="sms_group_delete_title">删除所有聊天室</string>
+    <string name="sms_group_delete_content">你确定要删除所有聊天室记录吗？将无法恢复！</string>
+
+
+    <string name="sms_freq_delete_title">自定义频道</string>
+    <string name="sms_freq_delete_content">你确定要自定义频道吗？</string>
+
+
+    <string name="sms_login_dialog_content">你确定要切换账号吗？同时这个账号信息也会被清除！</string>
+
+    <!--sms tracking map XML String -->
+
+    <string name="sms_deivce_title_group">GROUP:</string>
+    <string name="sms_deivce_title_group_hite">---------</string>
+    <string name="sms_deivce_title_freq_hite">---.---</string>
+
+    <string name="sms_deivce_title_mode">模式:</string>
+    <string name="sms_deivce_title_mode_hite">---</string>
+
+    <string name="sms_deivce_title_tc_hite">---</string>
+
+    <string name="sms_deivce_title_rc">RC:</string>
+    <string name="sms_deivce_title_rc_hite">---</string>
+    <string name="sms_deivce_title_automation">自动</string>
+
+
+    <string name="sms_deivce_connection_successful">连接成功</string>
+    <string name="sms_deivce_disconnect">连接失败</string>
+
+
+
+
+
+
+
+
+    <!--sms updata Activity XML String -->
+
+    <string name="sms_updata_title">更新</string>
+    <string name="chat_login_button_login">登录</string>
+    <string name="chat_login_button_registered">注册</string>
+    <string name="chat_login_forgot_password_hint">忘记密码？</string>
+    <string name="chat_login_text_registered">你没有账户吗？</string>
+    <string name="chat_login_text_hint_password">密码不能为空</string>
+    <string name="chat_password_button_ok">确定</string>
+    <string name="sms_tracking_title">轨迹记录</string>
+    <string name="sms_dialog_gps_message">使用轨迹功能，请先打开GPS</string>
+    <string name="sms_deivce_title_tc">TC:</string>
+</resources>

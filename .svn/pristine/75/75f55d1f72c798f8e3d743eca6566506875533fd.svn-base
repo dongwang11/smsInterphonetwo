@@ -1,0 +1,47 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/shopping_cart"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:layout_alignParentRight="true"
+    android:layout_marginBottom="30dp"
+    android:gravity="center_vertical">
+
+
+    <LinearLayout
+        android:id="@+id/zoomControlView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_marginRight="10dp">
+
+
+
+        <ImageButton
+            android:id="@+id/location_img_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:padding="5dp"
+            android:background="@drawable/selector_loct_button"
+            android:src="@mipmap/positionred" />
+
+        <!--<Button
+            android:id="@+id/more_map"
+            android:layout_width="40dip"
+            android:layout_height="40dip"
+            android:textColor="@color/white"
+            android:text="+" />
+
+        <Button
+            android:id="@+id/less_map"
+            android:layout_width="40dip"
+            android:layout_height="40dip"
+            android:textColor="@color/white"
+            android:text="-" />-->
+
+    </LinearLayout>
+</RelativeLayout>

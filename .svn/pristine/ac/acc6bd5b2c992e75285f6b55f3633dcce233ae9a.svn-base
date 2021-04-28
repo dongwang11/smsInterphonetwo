@@ -1,0 +1,32 @@
+D:/xm/smsInterhone/app/src/main/obj/local/x86/objs/speex/./libspeex/preprocess.o: \
+  D:/xm/smsInterhone/app/src/main/jni/./libspeex/preprocess.c \
+  D:/xm/smsInterhone/app/src/main/jni/include\speex/speex_preprocess.h \
+  D:/xm/smsInterhone/app/src/main/jni/include\speex/speex_types.h \
+  D:/xm/smsInterhone/app/src/main/jni/include\speex/speex_config_types.h \
+  D:/xm/smsInterhone/app/src/main/jni/include\speex/speex_echo.h \
+  D:/xm/smsInterhone/app/src/main/jni/./libspeex/arch.h \
+  D:/xm/smsInterhone/app/src/main/jni/./libspeex/fixed_generic.h \
+  D:/xm/smsInterhone/app/src/main/jni/./libspeex/fftwrap.h \
+  D:/xm/smsInterhone/app/src/main/jni/./libspeex/filterbank.h \
+  D:/xm/smsInterhone/app/src/main/jni/./libspeex/math_approx.h \
+  D:/xm/smsInterhone/app/src/main/jni/./libspeex/os_support.h
+
+D:/xm/smsInterhone/app/src/main/jni/include\speex/speex_preprocess.h:
+
+D:/xm/smsInterhone/app/src/main/jni/include\speex/speex_types.h:
+
+D:/xm/smsInterhone/app/src/main/jni/include\speex/speex_config_types.h:
+
+D:/xm/smsInterhone/app/src/main/jni/include\speex/speex_echo.h:
+
+D:/xm/smsInterhone/app/src/main/jni/./libspeex/arch.h:
+
+D:/xm/smsInterhone/app/src/main/jni/./libspeex/fixed_generic.h:
+
+D:/xm/smsInterhone/app/src/main/jni/./libspeex/fftwrap.h:
+
+D:/xm/smsInterhone/app/src/main/jni/./libspeex/filterbank.h:
+
+D:/xm/smsInterhone/app/src/main/jni/./libspeex/math_approx.h:
+
+D:/xm/smsInterhone/app/src/main/jni/./libspeex/os_support.h:

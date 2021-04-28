@@ -1,0 +1,14 @@
+D:/xm/smsInterhone/app/src/main/obj/local/armeabi-v7a/objs/speex/./wedrtc/resample_48khz.o: \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/resample_48khz.c \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/signal_processing_library.h \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/typedefs.h \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/spl_inl.h \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/resample_by_2_internal.h
+
+D:/xm/smsInterhone/app/src/main/jni/./wedrtc/signal_processing_library.h:
+
+D:/xm/smsInterhone/app/src/main/jni/./wedrtc/typedefs.h:
+
+D:/xm/smsInterhone/app/src/main/jni/./wedrtc/spl_inl.h:
+
+D:/xm/smsInterhone/app/src/main/jni/./wedrtc/resample_by_2_internal.h:

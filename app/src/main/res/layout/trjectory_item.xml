@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="5dp"
+    >
+
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        android:textSize="18sp"
+        android:layout_centerVertical="true" />
+
+
+    <LinearLayout
+        android:id="@+id/linearlayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true">
+
+        <ImageView
+            android:id="@+id/imageview_upload"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:src="@mipmap/btn_download_gray"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/imageView_delete"
+            android:layout_marginRight="20dp"
+            android:visibility="gone"
+            />
+        <ImageView
+            android:id="@+id/imageView_delete"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:src="@mipmap/btn_delete_gray"
+
+            />
+    </LinearLayout>
+
+    <TextView
+        android:text="textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toStartOf="@+id/linearlayout"
+        android:textSize="18sp"
+        android:layout_marginRight="20dp"
+        android:layout_centerVertical="true"
+        android:id="@+id/textView2" />
+
+
+</RelativeLayout>

@@ -1,0 +1,836 @@
+<com.sms.app.interphone.view.DragLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/com.sms.app.interphone"
+    xmlns:slideswitch="http://schemas.android.com/apk/res/com.sms.app.interphone"
+    android:id="@+id/sms_main_draglayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/chat_draglayout_bg">
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <RelativeLayout
+            android:id="@+id/sms_main_layout_left"
+            android:layout_width="233dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            >
+
+            <LinearLayout
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:gravity="center_horizontal"
+                android:padding="10dp"
+                >
+
+                <com.sms.app.interphone.view.CircleImageView
+                    android:id="@+id/sms_main_icon"
+                    android:layout_width="70dp"
+                    android:layout_height="70dp"
+                    android:src="@mipmap/icon_chat_01"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="20dp"
+                    app:civ_border_width="3dp"
+                    app:civ_border_color="@color/white"
+                    />
+
+                <TextView
+                    android:id="@+id/sms_main_user_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/sms_main_user_name"
+                    android:textColor="@color/nitecore"
+                    android:layout_marginTop="8dp"
+                    android:textSize="18sp" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp">
+
+
+                    <ImageView
+                        android:layout_width="10dp"
+                        android:layout_height="10dp"
+                        android:layout_centerVertical="true"
+                        android:layout_toLeftOf="@+id/sms_main_contected"
+                        android:src="@mipmap/sms_main_profile_status_linked"/>
+
+                    <TextView
+                        android:id="@+id/sms_main_contected"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:layout_centerHorizontal="true"
+                        android:layout_centerVertical="true"
+                        android:textColor="@color/sms_main_device_contected_color"
+                        android:textSize="10sp"
+                        android:text="@string/sms_main_device_contected"/>
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp">
+
+                    <ImageView
+                        android:layout_width="13dp"
+                        android:layout_height="13dp"
+                        android:layout_centerVertical="true"
+                        android:layout_toLeftOf="@+id/sms_main_device_freq"
+                        android:src="@mipmap/sms_main_profile_ico_wifi"/>
+                    <TextView
+                        android:id="@+id/sms_main_device_freq"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/white"
+                        android:layout_centerVertical="true"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginLeft="5dp"
+                        android:textSize="15sp"
+                        android:text="@string/sms_main_device_freq"/>
+
+                </RelativeLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1px"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="30dp"
+                    android:background="@color/chat_draglayout_view" />
+
+                <!--<LinearLayout
+                    android:id="@+id/main_draglayout_manual"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/linearlayout_height"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical">
+
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:src="@mipmap/chat_draglayout_view_1"
+                        android:layout_marginLeft="20dp"
+                        android:layout_centerHorizontal="true" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:textSize="12sp"
+                        android:textColor="@color/white"
+                        android:text="@string/sms_settings_manual"/>
+
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1px"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@color/chat_draglayout_view" />-->
+
+                <LinearLayout
+                    android:id="@+id/main_draglayout_about"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/linearlayout_height"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical">
+
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:src="@mipmap/chat_draglayout_view_1"
+                        android:layout_marginLeft="20dp"
+                        android:layout_centerHorizontal="true" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:textSize="12sp"
+                        android:textColor="@color/white"
+                        android:text="@string/sms_settings_about"/>
+
+                </LinearLayout>
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1px"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@color/chat_draglayout_view" />
+
+                <LinearLayout
+                    android:id="@+id/main_draglayout_faq"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/linearlayout_height"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical">
+
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:src="@mipmap/chat_draglayout_view_1"
+                        android:layout_marginLeft="20dp"
+                        android:layout_centerHorizontal="true" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:textSize="12sp"
+                        android:textColor="@color/white"
+                        android:text="@string/sms_settings_faq"/>
+
+                </LinearLayout>
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1px"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@color/chat_draglayout_view" />
+
+                <!--<LinearLayout
+                    android:id="@+id/main_draglayout_feedback"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/linearlayout_height"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical">
+
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:src="@mipmap/chat_draglayout_view_1"
+                        android:layout_marginLeft="20dp"
+                        android:layout_centerHorizontal="true" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:textSize="12sp"
+                        android:textColor="@color/white"
+                        android:text="@string/sms_settings_feedback"/>
+
+                </LinearLayout>
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1px"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@color/chat_draglayout_view" />-->
+
+                <LinearLayout
+                    android:id="@+id/main_draglayout_update"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/linearlayout_height"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical">
+
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:src="@mipmap/chat_draglayout_view_1"
+                        android:layout_marginLeft="20dp"
+                        android:layout_centerHorizontal="true" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:textSize="12sp"
+                        android:textColor="@color/white"
+                        android:text="@string/sms_settings_update"/>
+
+                </LinearLayout>
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1px"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@color/chat_draglayout_view" />
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:id="@+id/main_draglayout_signout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="30dp"
+                android:orientation="horizontal"
+                android:gravity="center_vertical">
+
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:src="@mipmap/chat_draglayout_view_1"
+                    android:layout_centerHorizontal="true" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:textSize="12sp"
+                    android:textColor="@color/white"
+                    android:text="@string/sms_main_sign_out"/>
+
+            </LinearLayout>
+        </RelativeLayout>
+
+
+        <RelativeLayout
+            android:id="@+id/sms_main_layout_right"
+            android:layout_width="143dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:background="@mipmap/chat_draglayout_bg"
+            >
+
+
+            <LinearLayout
+                android:layout_width="143dp"
+                android:layout_marginTop="40dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:orientation="vertical"
+                >
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1px"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@color/chat_draglayout_view" />
+
+                <LinearLayout
+                    android:id="@+id/chat_draglayout_sharegroup"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/linearlayout_height"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical">
+
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:src="@mipmap/chat_draglayout_view_1"
+                        android:layout_marginLeft="20dp"
+                        android:layout_centerHorizontal="true" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:textSize="12sp"
+                        android:textColor="@color/white"
+                        android:text="@string/chat_draglayout_text_sharegroup"/>
+
+                </LinearLayout>
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1px"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@color/chat_draglayout_view" />
+
+                <LinearLayout
+                    android:id="@+id/chat_draglayout_newgroup"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/linearlayout_height"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical">
+
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:src="@mipmap/chat_draglayout_view_1"
+                        android:layout_marginLeft="20dp"
+                        android:layout_centerHorizontal="true" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:textSize="12sp"
+                        android:textColor="@color/white"
+                        android:text="@string/chat_draglayout_text_newgroup"/>
+
+                </LinearLayout>
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1px"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@color/chat_draglayout_view" />
+
+                <LinearLayout
+                    android:id="@+id/chat_draglayout_histroy"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/linearlayout_height"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical">
+
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:src="@mipmap/chat_draglayout_view_1"
+                        android:layout_marginLeft="20dp"
+                        android:layout_centerHorizontal="true" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:textSize="12sp"
+                        android:textColor="@color/white"
+                        android:text="@string/chat_draglayout_text_histroy"/>
+
+                </LinearLayout>
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1px"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@color/chat_draglayout_view" />
+
+                <LinearLayout
+                    android:id="@+id/chat_draglayout_joingroup"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/linearlayout_height"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical">
+
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:src="@mipmap/chat_draglayout_view_1"
+                        android:layout_marginLeft="20dp"
+                        android:layout_centerHorizontal="true" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:textSize="12sp"
+                        android:textColor="@color/white"
+                        android:text="@string/chat_draglayout_text_joingroup"/>
+
+                </LinearLayout>
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1px"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@color/chat_draglayout_view" />
+
+                <LinearLayout
+                    android:id="@+id/chat_draglayout_leavegroup"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/linearlayout_height"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical">
+
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:src="@mipmap/chat_draglayout_view_1"
+                        android:layout_marginLeft="20dp"
+                        android:layout_centerHorizontal="true" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:textSize="12sp"
+                        android:textColor="@color/white"
+                        android:text="@string/chat_draglayout_text_leavegroup"/>
+
+                </LinearLayout>
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1px"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@color/chat_draglayout_view" />
+                <!--<LinearLayout
+                    android:id="@+id/chat_draglayout_map"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/linearlayout_height"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical">
+
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:src="@mipmap/chat_draglayout_view_1"
+                        android:layout_marginLeft="20dp"
+                        android:layout_centerHorizontal="true" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:textSize="12sp"
+                        android:textColor="@color/white"
+                        android:text="位置共享"/>
+
+                </LinearLayout>
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1px"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@color/chat_draglayout_view" />-->
+                <LinearLayout
+                    android:id="@+id/chat_draglayout_device"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/linearlayout_height"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical">
+
+
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:src="@mipmap/chat_draglayout_view_1"
+                        android:layout_marginLeft="20dp"
+                        android:layout_centerHorizontal="true" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:textSize="12sp"
+                        android:textColor="@color/white"
+                        android:text="设备信息"/>
+
+                </LinearLayout>
+
+
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1px"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@color/chat_draglayout_view" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/linearlayout_height"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical">
+
+
+                    <Button
+                        android:id="@+id/chat_draglayout_device_btn"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="寻机" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1px"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@color/chat_draglayout_view" />
+
+                <LinearLayout
+                    android:id="@+id/chat_draglayout_ptt_switch"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/linearlayout_height"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical">
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="2"
+                        android:layout_marginLeft="20dp"
+                        android:textSize="12sp"
+                        android:textColor="@color/white"
+                        android:text="@string/chat_draglayout_text_ptt"/>
+
+                    <com.sms.app.interphone.view.SlideSwitch
+                        android:id="@+id/ptt_switch"
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:layout_height="20dp"
+                        slideswitch:shape="circle"
+                        slideswitch:themeColor="@color/nitecore"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginLeft="10dp"
+                        >
+                    </com.sms.app.interphone.view.SlideSwitch>
+
+
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1px"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@color/chat_draglayout_view" />
+
+            </LinearLayout>
+
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+    <com.sms.app.interphone.view.MyRelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/chat_listview_bg">
+
+
+
+            <LinearLayout
+                android:id="@+id/linearLayout_list"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_above="@+id/chat_relativeLayout"
+                android:orientation="vertical">
+
+                <RelativeLayout
+                    android:id="@+id/sms_main_title_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:background="@color/nitecore"
+                    android:layout_alignParentTop="true">
+
+                    <ImageView
+                        android:id="@+id/sms_main_ico_profile"
+                        android:layout_width="35dp"
+                        android:layout_height="25dp"
+                        android:src="@mipmap/sms_main_ico_profile"
+                        android:layout_centerHorizontal="true"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="10dp"/>
+
+                    <TextView
+                        android:id="@+id/sms_main_title"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:textSize="18sp"
+                        android:textColor="@color/black"
+                        android:layout_centerVertical="true"
+                        android:text="@string/sms_ble_scnn_title"/>
+
+
+                    <ImageView
+                        android:id="@+id/sms_return_icon"
+                        android:layout_width="35dp"
+                        android:layout_height="25dp"
+                        android:src="@mipmap/sms_ble_option"
+                        android:layout_marginRight="10dp"
+                        android:layout_centerVertical="true"
+                        android:layout_centerHorizontal="true"
+                        android:layout_alignParentRight="true" />
+
+                    <!--<TextView
+                        android:id="@+id/textView8"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="60dp"
+                        android:textColor="@color/black" />-->
+
+                </RelativeLayout>
+
+                <include layout="@layout/fragment_map_layout_tracking" />
+
+                <RelativeLayout
+                    android:id="@+id/chat_hite_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/sms_dialog_layout_bg_color"
+                    android:gravity="center"
+                    android:padding="3dp"
+                    android:visibility="gone"
+                    >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/sms_main_erro_hite_layout"
+                        android:textColor="@color/white"
+                        android:gravity="center"
+                        android:textSize="10sp"
+                        />
+                </RelativeLayout>
+
+                <com.sms.app.interphone.view.PttRelativeLayout
+
+                    android:id="@+id/chat_pttlayout"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+
+
+                    >
+
+                    <com.sms.app.interphone.view.ChatListView
+                        android:id="@+id/chat_listView"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_alignParentStart="true"
+                        android:layout_marginStart="0dp"
+                        android:background="@color/chat_listview_bg"
+                        android:divider="@null"
+                        android:listSelector="#00000000"
+                        android:scrollbars="none">
+
+                    </com.sms.app.interphone.view.ChatListView>
+
+                </com.sms.app.interphone.view.PttRelativeLayout>
+
+            </LinearLayout>
+
+
+            <RelativeLayout
+                android:id="@+id/chat_relativeLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:background="@color/chat_listview_bg">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:id="@+id/chat_button_layout"
+                    android:gravity="center_horizontal"
+
+                    android:background="@drawable/chat_button_bg"
+                    android:padding="1dp"
+
+                    android:animateLayoutChanges="true"
+                    >
+
+                    <RelativeLayout
+                        android:id="@+id/chat_main_layout"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <RelativeLayout
+                            android:id="@+id/chat_button_switch_layout"
+                            android:layout_width="100dp"
+                            android:layout_height="18dp"
+                            android:gravity="center"
+                            android:layout_centerHorizontal="true"
+                            android:background="@mipmap/chat_button_open"
+                            >
+
+                            <ImageView
+                                android:id="@+id/chat_button_switch_imageview"
+                                android:layout_width="10dp"
+                                android:layout_height="10dp"
+                                android:src="@mipmap/chat_button_titlehint_true"
+                                />
+                        </RelativeLayout>
+
+
+                        <RelativeLayout
+                            android:background="@mipmap/chat_button_voice_true"
+                            android:layout_width="match_parent"
+                            android:layout_height="110dp"
+                            android:layout_marginLeft="5dp"
+                            android:layout_marginRight="5dp"
+                            android:layout_marginBottom="5dp"
+                            android:layout_centerHorizontal="true"
+                            android:layout_below="@+id/chat_button_switch_layout"
+                            android:id="@+id/chat_voice_button">
+
+                            <TextView
+                                android:id="@+id/chat_voice_textview_hint"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textColor="@color/black"
+                                android:layout_marginTop="10dp"
+                                android:layout_marginLeft="10dp"
+                                android:layout_alignParentLeft="true"
+                                android:textSize="25sp"
+                                android:visibility="gone"
+                                />
+
+                            <TextView
+                                android:id="@+id/chat_voice_textview_content"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentRight="true"
+                                android:textSize="45sp"
+                                android:layout_marginRight="10dp"
+                                android:textColor="@color/black"
+                                android:visibility="gone"
+                                />
+
+                        </RelativeLayout>
+                    </RelativeLayout>
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="33dp"
+                        android:orientation="horizontal"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginRight="5dp"
+                        android:layout_marginBottom="5dp"
+                        android:focusable="true"
+                        android:focusableInTouchMode="true"
+
+                        android:background="@drawable/chat_button_layout_bg">
+
+                        <EditText
+                            android:id="@+id/chat_edtext"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="4"
+                            android:background="@null"
+                            android:textColor="@color/black"
+                            android:imeOptions="actionSend"
+                            android:inputType="textEmailAddress"
+                            android:layout_marginRight="5dp"
+                            android:layout_marginLeft="5dp"
+                            android:textSize="15sp" />
+                        <Button
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:layout_centerVertical="true"
+                            android:layout_alignParentRight="true"
+                            android:background="@drawable/chat_button_message_true"
+                            android:text="@string/chat_draglayout_text_send"
+                            android:textColor="@color/white"
+                            android:textSize="15sp"
+                            android:textAllCaps="false"
+                            android:id="@+id/chat_button_send" />
+                    </LinearLayout>
+
+                </LinearLayout>
+            </RelativeLayout>
+        </RelativeLayout>
+
+
+    </com.sms.app.interphone.view.MyRelativeLayout>
+
+</com.sms.app.interphone.view.DragLayout>

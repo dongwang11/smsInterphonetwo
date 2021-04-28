@@ -1,0 +1,302 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linearLayout_trace"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="#F4F4F4"
+    android:animateLayoutChanges="true"
+    >
+
+
+    <LinearLayout
+
+        android:id="@+id/device_one_layout"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:visibility="gone">
+
+         <LinearLayout
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:orientation="horizontal">
+             <ImageView
+                 android:layout_width="20dp"
+                 android:layout_height="80dp"
+                 android:layout_marginLeft="@dimen/margin_default"
+                 android:layout_marginRight="@dimen/margin_medium"
+                 android:scaleType="centerCrop"
+                 android:src="@mipmap/duijianjishebeixxlan"
+                 android:padding="@dimen/margin_medium"/>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:background="@drawable/device_layout_bg">
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentLeft="true"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginTop="5dp"
+                            android:layout_marginRight="100dp"
+                            android:orientation="vertical">
+
+
+                            <TextView
+                                android:id="@+id/sms_main_title"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:singleLine="true"
+                                android:text="@string/sms_deivce_title_group_hite"
+                                android:textColor="@color/henqianhuise"
+                                android:textSize="@dimen/activity_horizontal_margin" />
+
+
+                        </LinearLayout>
+
+                   <!--     <LinearLayout
+                            android:id="@+id/vole_linearlayout"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentRight="true"
+                            android:orientation="horizontal"
+                            android:layout_marginTop="5dp"
+                            android:layout_marginRight="10dp"
+                            android:gravity="center_vertical">
+
+                            <ImageView
+                                android:layout_width="20dp"
+                                android:layout_height="30dp"
+                                android:src="@mipmap/device_icon_0"
+                                android:visibility="gone"/>
+                            <com.sms.app.interphone.view.PowerView
+                                android:id="@+id/device_title_vole1"
+                                android:layout_width="30dp"
+                                android:layout_height="15dp"
+                                android:layout_marginTop="5dp"/>
+
+                        </LinearLayout>-->
+
+                        <TextView
+                            android:id="@+id/device_title_freq1"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/sms_deivce_title_freq_hite"
+                            android:textColor="@color/henqianhuise"
+                            android:textSize="@dimen/activity_horizontal_margin"
+                            android:layout_marginTop="5dp"
+                            android:layout_marginRight="10dp"
+                            android:layout_alignParentRight="true"/>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="5dp">
+                      <!--  <TextView
+                            android:id="@+id/device_title_freq1"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/sms_deivce_title_freq_hite"
+                            android:textColor="@color/henqianhuise"
+                            android:textSize="30sp"
+                            android:layout_marginLeft="10dp"
+                            android:layout_alignParentLeft="true"/>-->
+
+
+                        <LinearLayout
+                            android:id="@+id/vole_linearlayout"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/sms_deivce_title_freq_hite"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginTop="@dimen/margin_default"
+                            android:layout_alignParentLeft="true"
+                            android:gravity="center_vertical">
+
+                            <TextView
+                                android:id="@+id/tv_electricQuantity"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="40%"
+                                android:layout_marginRight="@dimen/margin_medium"
+                                android:textColor="@color/henqianhuise"/>
+                            <com.sms.app.interphone.view.PowerView
+                                android:id="@+id/device_title_vole1"
+                                android:layout_width="30dp"
+                                android:layout_height="15dp" />
+
+                        </LinearLayout>
+
+
+
+
+
+                        <RelativeLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentRight="true"
+                            android:layout_marginRight="10dp"
+                            android:layout_marginTop="@dimen/margin_default">
+
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentLeft="true"
+                                android:orientation="horizontal">
+                                <LinearLayout
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="horizontal">
+                                    <TextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:textColor="@color/tanluse"
+                                        android:textSize="13sp"
+                                        android:text="@string/sms_deivce_title_mode"/>
+                                    <TextView
+                                        android:id="@+id/device_title_mode"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:textColor="@color/henqianhuise"
+                                        android:textSize="13sp"
+                                        android:layout_marginLeft="5dp"
+                                        android:text="@string/sms_deivce_title_mode_hite"/>
+
+                                </LinearLayout>
+
+                                <LinearLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="horizontal"
+                                    android:layout_marginLeft="@dimen/margin_small">
+                                    <TextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:textColor="@color/tanluse"
+                                        android:textSize="13sp"
+                                        android:text="@string/sms_deivce_title_tc"/>
+                                    <TextView
+                                        android:id="@+id/device_title_tc"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:textColor="@color/henqianhuise"
+                                        android:textSize="13sp"
+                                        android:layout_marginLeft="5dp"
+                                        android:text="@string/sms_deivce_title_tc_hite"/>
+                                    <TextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginLeft="10dp"
+                                        android:textColor="@color/tanluse"
+                                        android:textSize="13sp"
+                                        android:text="@string/sms_deivce_title_rc"/>
+                                    <TextView
+                                        android:id="@+id/device_title_rc"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:textColor="@color/henqianhuise"
+                                        android:textSize="13sp"
+                                        android:layout_marginLeft="5dp"
+                                        android:text="@string/sms_deivce_title_rc_hite"/>
+
+
+                                </LinearLayout>
+                            </LinearLayout>
+
+                        </RelativeLayout>
+                    </RelativeLayout>
+                </LinearLayout>
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/device_switch_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="2dp"
+            android:background="@color/nitecore"
+            android:gravity="center"
+            android:visibility="gone">
+
+            <ImageView
+                android:id="@+id/device_switch_imageview"
+                android:layout_width="10dp"
+                android:layout_height="10dp"
+                android:src="@mipmap/title_switch_icon"
+                />
+        </RelativeLayout>
+    </LinearLayout>
+    
+    <LinearLayout
+        android:id="@+id/device_to_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/device_layout_bg"
+        android:padding="5dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginBottom="5dp"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/device_title_group_name2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2.2"
+            android:text="@string/sms_deivce_title_group_hite"
+            android:singleLine="true"
+            android:layout_marginLeft="5dp"
+            android:textColor="@color/henqianhuise"
+            android:textSize="23sp"/>
+        <TextView
+            android:id="@+id/device_title_freq2"
+            android:layout_width="0dp"
+            android:layout_weight="1.2"
+            android:layout_height="wrap_content"
+            android:text="@string/sms_deivce_title_freq_hite"
+            android:textColor="@color/henqianhuise"
+            android:textSize="23sp"/>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:orientation="horizontal"
+            android:layout_marginRight="5dp"
+            android:gravity="center_vertical">
+
+            <ImageView
+                android:layout_width="20dp"
+                android:layout_height="30dp"
+                android:src="@mipmap/device_icon_0"
+                android:visibility="gone"/>
+            <com.sms.app.interphone.view.PowerView
+                android:id="@+id/device_title_vole2"
+                android:layout_width="30dp"
+                android:layout_height="15dp"
+               />
+
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>

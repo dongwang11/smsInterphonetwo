@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: no.nordicsemi.android:dfu:1.6.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/dfu-1.6.1.aar/be62cb3b5bf66f8601bd5a84019c7df0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/dfu-1.6.1.aar/be62cb3b5bf66f8601bd5a84019c7df0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/no.nordicsemi.android/dfu/1.6.1/40959cfba165a81ac25c4b9a70d57b1a4c625adc/dfu-1.6.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

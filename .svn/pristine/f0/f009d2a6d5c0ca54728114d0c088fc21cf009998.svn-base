@@ -1,0 +1,11 @@
+D:/xm/smsInterhone/app/src/main/obj/local/x86_64/objs/speex/./wedrtc/get_scaling_square.o: \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/get_scaling_square.c \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/signal_processing_library.h \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/typedefs.h \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/spl_inl.h
+
+D:/xm/smsInterhone/app/src/main/jni/./wedrtc/signal_processing_library.h:
+
+D:/xm/smsInterhone/app/src/main/jni/./wedrtc/typedefs.h:
+
+D:/xm/smsInterhone/app/src/main/jni/./wedrtc/spl_inl.h:

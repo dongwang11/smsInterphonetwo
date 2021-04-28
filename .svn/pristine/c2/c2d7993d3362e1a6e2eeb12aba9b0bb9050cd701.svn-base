@@ -1,0 +1,26 @@
+D:/xm/smsInterhone/app/src/main/obj/local/x86/objs/speex/./wedrtc/ns_core.o: \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/ns_core.c \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/signal_processing_library.h \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/typedefs.h \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/spl_inl.h \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/noise_suppression.h \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/ns_core.h \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/defines.h \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/windows_private.h \
+  D:/xm/smsInterhone/app/src/main/jni/./wedrtc/fft4g.h
+
+D:/xm/smsInterhone/app/src/main/jni/./wedrtc/signal_processing_library.h:
+
+D:/xm/smsInterhone/app/src/main/jni/./wedrtc/typedefs.h:
+
+D:/xm/smsInterhone/app/src/main/jni/./wedrtc/spl_inl.h:
+
+D:/xm/smsInterhone/app/src/main/jni/./wedrtc/noise_suppression.h:
+
+D:/xm/smsInterhone/app/src/main/jni/./wedrtc/ns_core.h:
+
+D:/xm/smsInterhone/app/src/main/jni/./wedrtc/defines.h:
+
+D:/xm/smsInterhone/app/src/main/jni/./wedrtc/windows_private.h:
+
+D:/xm/smsInterhone/app/src/main/jni/./wedrtc/fft4g.h:

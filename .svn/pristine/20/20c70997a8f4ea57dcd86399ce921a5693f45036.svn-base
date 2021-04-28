@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/content_group"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/chat_listview_bg">
+
+
+    <RelativeLayout
+        android:id="@+id/message_title_layout"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+
+        android:background="@color/nitecore">
+
+        <ImageView
+            android:id="@+id/message_title_imageview1"
+            android:layout_width="35dp"
+            android:layout_height="25dp"
+            android:layout_centerVertical="true"
+            android:src="@mipmap/sms_return_icon1" />
+
+        <TextView
+            android:id="@+id/message_title_text"
+            android:text="@string/chat_title_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:textSize="20dp"
+            android:textColor="@color/black"/>
+
+
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/message_listView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:divider="@null"
+        android:layout_below="@+id/message_title_layout"
+        android:listSelector="#00000000"
+        android:scrollbars="none"
+        android:background="@color/chat_listview_bg">
+
+    </ListView>
+
+</RelativeLayout>

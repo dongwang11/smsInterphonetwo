@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="150dp"
+    android:layout_height="match_parent"
+    android:background="@color/qianhuise"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/index_bottom">
+
+          <LinearLayout
+              android:id="@+id/chat_draglayout_joingroup"
+              android:layout_width="match_parent"
+              android:layout_height="60dp"
+              android:background="@drawable/index_bottom"
+              android:gravity="center">
+              <ImageView
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:scaleType="centerCrop"
+                  android:src="@mipmap/jiarults"/>
+              <TextView
+                  android:id="@+id/tv_1"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:padding="10dp"
+                  android:text="@string/chat_draglayout_text_joingroup"
+                  android:textColor="@color/black"
+                  android:textSize="@dimen/info_text_normal"
+                  android:layout_marginLeft="@dimen/margin_medium" />
+          </LinearLayout>
+         <View
+             android:layout_width="wrap_content"
+             android:layout_height="1dp"
+             android:background="@color/huise" />
+
+
+
+
+        <LinearLayout
+            android:id="@+id/chat_draglayout_sharegroup"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:background="@drawable/index_bottom"
+            android:gravity="center">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:scaleType="centerCrop"
+                android:src="@mipmap/fenxiangerweima"/>
+            <TextView
+                android:id="@+id/tv_2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="@string/chat_draglayout_text_sharegroup"
+                android:textColor="@color/black"
+                android:textSize="@dimen/info_text_normal"
+                android:layout_marginLeft="@dimen/margin_medium"/>
+        </LinearLayout>
+        <View
+            android:layout_width="wrap_content"
+            android:layout_height="1dp"
+            android:background="@color/huise" />
+
+
+
+        <LinearLayout
+            android:id="@+id/chat_draglayout_histroy"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:background="@drawable/index_bottom"
+            android:gravity="center">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:scaleType="centerCrop"
+                android:src="@mipmap/lishilts"/>
+            <TextView
+                android:id="@+id/tv_3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="@string/chat_draglayout_text_histroy"
+                android:textColor="@color/black"
+                android:textSize="@dimen/info_text_normal"
+                android:layout_marginLeft="@dimen/margin_medium"/>
+        </LinearLayout>
+        <View
+            android:layout_width="wrap_content"
+            android:layout_height="1dp"
+            android:background="@color/huise" />
+
+
+
+
+        <LinearLayout
+            android:id="@+id/chat_draglayout_leavegroup"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:background="@drawable/index_bottom"
+            android:gravity="center">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:scaleType="centerCrop"
+                android:src="@mipmap/tchults"/>
+            <TextView
+                android:id="@+id/tv_4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="@string/chat_draglayout_text_leavegroup"
+                android:textColor="@color/black"
+                android:textSize="@dimen/info_text_normal"
+                android:layout_marginLeft="@dimen/margin_medium"/>
+        </LinearLayout>
+     <!--   <View
+            android:layout_width="wrap_content"
+            android:layout_height="1dp"
+            android:background="@color/huise" />
+        <LinearLayout
+            xmlns:slideswitch="http://schemas.android.com/apk/res/com.sms.app.interphone"
+            android:id="@+id/chat_draglayout_ptt_switch"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/linearlayout_height"
+            android:orientation="horizontal"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:layout_marginLeft="20dp"
+                android:textSize="12sp"
+                android:textColor="@color/black"
+                android:text="@string/chat_draglayout_text_ptt"/>
+
+            <com.sms.app.interphone.view.SlideSwitch
+                android:id="@+id/ptt_switch"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="20dp"
+                slideswitch:shape="circle"
+                slideswitch:themeColor="@color/nitecore"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                >
+            </com.sms.app.interphone.view.SlideSwitch>
+
+        </LinearLayout>-->
+        <View
+            android:layout_width="wrap_content"
+            android:layout_height="1dp"
+            android:background="@color/huise" />
+
+    </LinearLayout>
+
+</LinearLayout>

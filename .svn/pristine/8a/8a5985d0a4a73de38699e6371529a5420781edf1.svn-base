@@ -1,0 +1,57 @@
+<com.sms.app.interphone.view.DragLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/com.example.ys.androidapplication"
+    xmlns:slideswitch="http://schemas.android.com/apk/res/com.example.ys.androidapplication"
+    android:id="@+id/chat_draglayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+
+
+    <com.sms.app.interphone.view.MyRelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/chat_listview_bg">
+
+        <RelativeLayout
+            android:id="@+id/chat_title_layout"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="@color/nitecore">
+
+            <TextView
+                android:id="@+id/chat_title_text"
+                android:text="@string/chat_title_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:textSize="20dp"
+                android:textColor="@color/black"/>
+
+
+            <ImageView
+                android:id="@+id/chat_title_imageview2"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:src="@mipmap/sms_ble_option"
+                android:layout_marginRight="10dp"
+                android:layout_centerVertical="true"
+                android:layout_alignParentRight="true"/>
+
+            <ImageView
+                android:id="@+id/chat_title_imageview1"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:src="@mipmap/sms_return_icon1"
+                android:layout_centerVertical="true"
+                android:layout_alignParentStart="true" />
+        </RelativeLayout>
+
+
+
+
+    </com.sms.app.interphone.view.MyRelativeLayout>
+
+</com.sms.app.interphone.view.DragLayout>

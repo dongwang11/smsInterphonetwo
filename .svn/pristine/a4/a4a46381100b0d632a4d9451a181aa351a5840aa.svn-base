@@ -1,0 +1,14 @@
+D:/xm/smsInterhone/app/src/main/obj/local/x86_64/objs/speex/./libspeex/window.o: \
+  D:/xm/smsInterhone/app/src/main/jni/./libspeex/window.c \
+  D:/xm/smsInterhone/app/src/main/jni/./libspeex/arch.h \
+  D:/xm/smsInterhone/app/src/main/jni/include\speex/speex_types.h \
+  D:/xm/smsInterhone/app/src/main/jni/include\speex/speex_config_types.h \
+  D:/xm/smsInterhone/app/src/main/jni/./libspeex/fixed_generic.h
+
+D:/xm/smsInterhone/app/src/main/jni/./libspeex/arch.h:
+
+D:/xm/smsInterhone/app/src/main/jni/include\speex/speex_types.h:
+
+D:/xm/smsInterhone/app/src/main/jni/include\speex/speex_config_types.h:
+
+D:/xm/smsInterhone/app/src/main/jni/./libspeex/fixed_generic.h:

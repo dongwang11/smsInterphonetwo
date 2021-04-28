@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <RelativeLayout
+            android:id="@+id/chat_title_layout"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="@color/nitecore">
+
+            <TextView
+                android:id="@+id/chat_title_text"
+                android:text="@string/sms_main_device"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:textSize="20dp"
+                android:textColor="@color/black"/>
+
+
+            <!--<ImageView
+                android:id="@+id/chat_title_imageview2"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:src="@mipmap/sms_ble_option"
+                android:layout_marginRight="10dp"
+                android:layout_centerVertical="true"
+                android:layout_alignParentRight="true"/>-->
+
+            <ImageView
+                android:id="@+id/chat_title_imageview1"
+                android:layout_width="35dp"
+                android:layout_height="25dp"
+                android:layout_alignParentStart="true"
+                android:layout_centerVertical="true"
+                android:src="@mipmap/sms_return_icon1" />
+        </RelativeLayout>
+        <fragment
+            android:id="@+id/device_fragment"
+            android:name="com.sms.app.interphone.ui.fragment.Fragment_Device"
+
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+
+
+
+</RelativeLayout>

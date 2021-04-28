@@ -1,0 +1,1481 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:layout_marginTop="@dimen/margin_medium"
+        android:orientation="horizontal">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:layout_gravity="center"
+            android:gravity="center">
+
+            <LinearLayout
+                android:id="@+id/ble_set_name_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center">
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:scaleType="centerCrop"
+                    android:src="@mipmap/xiugaisehzhi" />
+                <TextView
+                    android:id="@+id/sms_ble_setting_device_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/huise"
+                    android:layout_centerVertical="true"
+                    android:textSize="@dimen/info_text_normal"
+                    android:layout_marginLeft="10dp"
+                    android:text="@string/sms_ble_setting_device_name" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_centerInParent="true"
+                android:layout_above="@+id/ll_Looking_equipment"
+                android:layout_below="@+id/ble_set_name_layout">
+                <ImageView
+                    android:id="@+id/iv_seek_device"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:scaleType="centerCrop"
+                    android:src="@mipmap/duijianjishez" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ll_Looking_equipment"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_alignParentBottom="true"
+                android:orientation="vertical"
+                android:layout_marginBottom="10dp">
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:scaleType="centerCrop"
+                    android:src="@mipmap/liangbianxx" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/huise"
+                    android:layout_centerVertical="true"
+                    android:textSize="@dimen/info_text_normal"
+                    android:text="搜索设备" />
+            </LinearLayout>
+
+
+        </RelativeLayout>
+
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+
+            <ScrollView
+                android:id="@+id/sll_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+                <!--android:scrollbars="none"-->
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal"
+                        android:visibility="gone">
+
+                        <LinearLayout
+                            android:id="@+id/ble_set_freq_layout"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/duijiangjshezhi_height"
+                            android:layout_marginTop="5dp"
+                            android:background="@color/shezhi_hui"
+                            android:orientation="vertical"
+                            android:padding="5dp"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:layout_marginRight="5dp">
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textColor="@color/huise"
+                                android:layout_centerVertical="true"
+                                android:textSize="@dimen/info_text_normal"
+                                android:text="频率"
+                                android:gravity="center"
+                                android:layout_marginBottom="5dp"/>
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:orientation="horizontal"
+                                android:layout_marginTop="@dimen/margin_medium">
+                                <TextView
+                                    android:id="@+id/sms_ble_setting_freq"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:textSize="@dimen/info_text_normal"
+                                    android:textColor="@color/green"
+                                    android:textStyle="bold"
+                                    android:text="@string/device"/>
+                            </LinearLayout>
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:id="@+id/ble_set_sq_layout"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/duijiangjshezhi_height"
+                            android:layout_marginTop="5dp"
+                            android:background="@color/shezhi_hui"
+                            android:orientation="vertical"
+                            android:padding="5dp"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:layout_marginRight="5dp">
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textColor="@color/huise"
+                                android:layout_centerVertical="true"
+                                android:textSize="@dimen/info_text_normal"
+                                android:text="静噪等级"
+                                android:gravity="center"
+                                android:layout_marginBottom="5dp"/>
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:orientation="horizontal"
+                                android:layout_marginTop="@dimen/margin_medium">
+                                <TextView
+                                    android:id="@+id/sms_ble_setting_sq"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:textSize="@dimen/info_text_normal"
+                                    android:textColor="@color/green"
+                                    android:textStyle="bold"
+                                    android:text="@string/device"/>
+                            </LinearLayout>
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal"
+                        android:layout_marginTop="5dp"
+                        android:visibility="gone">
+                        <LinearLayout
+                            android:id="@+id/ble_set_tx_layout"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/duijiangjshezhi_height"
+                            android:background="@color/shezhi_hui"
+                            android:orientation="vertical"
+                            android:padding="5dp"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:layout_gravity="center"
+                            android:layout_marginRight="5dp">
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textColor="@color/huise"
+                                android:layout_centerVertical="true"
+                                android:textSize="@dimen/info_text_normal"
+                                android:text="发送\n亚音频"
+                                android:gravity="center"
+                                android:layout_marginBottom="5dp"/>
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:orientation="horizontal"
+                                android:layout_marginTop="@dimen/margin_medium">
+
+                                <TextView
+                                    android:id="@+id/sms_ble_setting_tx_code"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:text="@string/device"
+                                    android:textColor="@color/green"
+                                    android:textSize="@dimen/info_text_normal"
+                                    android:textStyle="bold" />
+                            </LinearLayout>
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:id="@+id/ble_set_rx_layout"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/duijiangjshezhi_height"
+                            android:background="@color/shezhi_hui"
+                            android:orientation="vertical"
+                            android:padding="5dp"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:layout_gravity="center"
+                            android:layout_marginRight="5dp">
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textColor="@color/huise"
+                                android:layout_centerVertical="true"
+                                android:textSize="@dimen/info_text_normal"
+                                android:text="接受\n亚音频"
+                                android:gravity="center"
+                                android:layout_marginBottom="5dp"/>
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:orientation="horizontal"
+                                android:layout_marginTop="@dimen/margin_medium">
+                                <TextView
+                                    android:id="@+id/sms_ble_setting_rx_code"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:textSize="@dimen/info_text_normal"
+                                    android:textColor="@color/green"
+                                    android:textStyle="bold"
+                                    android:text="@string/device"/>
+                            </LinearLayout>
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal"
+                        android:layout_marginTop="5dp">
+
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/duijiangjshezhi_height"
+                            android:background="@color/shezhi_hui"
+                            android:orientation="vertical"
+                            android:padding="5dp"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:layout_gravity="center"
+                            android:layout_marginRight="5dp"
+                            android:visibility="gone">
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textColor="@color/huise"
+                                android:layout_centerVertical="true"
+                                android:textSize="@dimen/info_text_normal"
+                                android:text="尾音消除\n开关"
+                                android:gravity="center"
+                                android:layout_marginBottom="5dp"/>
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:orientation="horizontal"
+                                android:layout_gravity="center"
+                                android:gravity="center">
+                                <com.sms.app.interphone.view.SwitchButton
+                                    xmlns:app="http://schemas.android.com/apk/res/com.sms.app.interphone"
+                                    android:id="@+id/ble_set_swit_stop_hite"
+                                    android:layout_width="50dp"
+                                    android:layout_height="25dp"
+                                    android:layout_gravity="center|top"
+                                    android:layout_centerVertical="true"
+                                    android:layout_marginTop="10dp"
+                                    app:bgColor="@color/green"
+                                    app:leftColor="@color/white"
+                                    app:rightColor="@color/white"
+                                    app:textLeft="Y"
+                                    app:textLeftClickColor="@color/green"
+                                    app:textLeftColor="@color/white"
+                                    app:textRight="N"
+                                    app:textRightClickColor="@color/green"
+                                    app:textRightColor="@color/white" />
+                            </LinearLayout>
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal"
+                        android:layout_marginTop="5dp">
+                        <LinearLayout
+                            android:id="@+id/ble_set_disconnect_layout"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/duijiangjshezhi_height"
+                            android:background="@color/shezhi_hui"
+                            android:orientation="vertical"
+                            android:padding="5dp"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:layout_gravity="center"
+                            android:layout_marginRight="5dp">
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textColor="@color/huise"
+                                android:layout_centerVertical="true"
+                                android:textSize="@dimen/info_text_normal"
+                                android:text="断开连接\n提示"
+                                android:gravity="center"
+                                android:layout_marginBottom="5dp"/>
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:orientation="horizontal"
+                                android:layout_gravity="center"
+                                android:gravity="center">
+                                <com.sms.app.interphone.view.SwitchButton
+                                    xmlns:app="http://schemas.android.com/apk/res/com.sms.app.interphone"
+                                    android:id="@+id/ble_set_swit_disconnect"
+                                    android:layout_width="50dp"
+                                    android:layout_height="25dp"
+                                    android:layout_gravity="center|top"
+                                    android:layout_centerVertical="true"
+                                    android:layout_marginTop="10dp"
+                                    app:bgColor="@color/shezhi_chengse"
+                                    app:leftColor="@color/white"
+                                    app:rightColor="@color/white"
+                                    app:textLeft="Y"
+                                    app:textLeftClickColor="@color/shezhi_chengse"
+                                    app:textLeftColor="@color/white"
+                                    app:textRight="N"
+                                    app:textRightClickColor="@color/shezhi_chengse"
+                                    app:textRightColor="@color/white" />
+                            </LinearLayout>
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:id="@+id/ble_set_vox_layout"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/duijiangjshezhi_height"
+                            android:background="@color/shezhi_hui"
+                            android:orientation="vertical"
+                            android:padding="5dp"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:layout_gravity="center"
+                            android:layout_marginRight="5dp">
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textColor="@color/huise"
+                                android:layout_centerVertical="true"
+                                android:textSize="@dimen/info_text_normal"
+                                android:text="VOX\n等级"
+                                android:gravity="center"
+                                android:layout_marginBottom="5dp"/>
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:orientation="horizontal"
+                                android:layout_marginTop="@dimen/margin_medium">
+                                <TextView
+                                    android:id="@+id/sms_ble_setting_vox"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:textSize="@dimen/info_text_normal"
+                                    android:textColor="@color/green"
+                                    android:textStyle="bold"
+                                    android:text="@string/device"/>
+                            </LinearLayout>
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal"
+                        android:layout_marginTop="5dp"
+                        android:visibility="gone">
+                        <LinearLayout
+                            android:id="@+id/radioGroup_set_tx_power"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/duijiangjshezhi_height"
+                            android:background="@color/shezhi_hui"
+                            android:orientation="vertical"
+                            android:padding="5dp"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:layout_gravity="center"
+                            android:layout_marginRight="5dp">
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textColor="@color/huise"
+                                android:layout_centerVertical="true"
+                                android:textSize="@dimen/info_text_normal"
+                                android:text="发射\n功率"
+                                android:gravity="center"
+                                android:layout_marginBottom="5dp"/>
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:orientation="horizontal"
+                                android:layout_marginTop="@dimen/margin_medium">
+                                <TextView
+                                    android:id="@+id/sms_ble_setting_tx_power"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:textSize="@dimen/info_text_normal"
+                                    android:textColor="@color/green"
+                                    android:textStyle="bold"
+                                    android:text="@string/device"/>
+                            </LinearLayout>
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:id="@+id/ble_set_rf_layout"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/duijiangjshezhi_height"
+                            android:background="@color/shezhi_hui"
+                            android:orientation="vertical"
+                            android:padding="5dp"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:layout_gravity="center"
+                            android:layout_marginRight="5dp">
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textColor="@color/huise"
+                                android:layout_centerVertical="true"
+                                android:textSize="@dimen/info_text_normal"
+                                android:text="RF\n开关"
+                                android:gravity="center"
+                                android:layout_marginBottom="5dp"/>
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:orientation="horizontal"
+                                android:layout_marginTop="@dimen/margin_medium">
+                                <TextView
+                                    android:id="@+id/sms_ble_setting_rf"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:textSize="@dimen/info_text_normal"
+                                    android:textColor="@color/green"
+                                    android:textStyle="bold"
+                                    android:text="@string/device"/>
+                            </LinearLayout>
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal"
+                        android:layout_marginTop="5dp">
+                        <LinearLayout
+                            android:id="@+id/ble_set_volt_layout"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/duijiangjshezhi_height"
+                            android:background="@color/shezhi_hui"
+                            android:orientation="vertical"
+                            android:padding="5dp"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:layout_gravity="center"
+                            android:layout_marginRight="5dp">
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textColor="@color/huise"
+                                android:layout_centerVertical="true"
+                                android:textSize="@dimen/info_text_normal"
+                                android:text="电池\n电压"
+                                android:gravity="center"
+                                android:layout_marginBottom="5dp"/>
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:orientation="horizontal"
+                                android:layout_marginTop="@dimen/margin_medium">
+                                <TextView
+                                    android:id="@+id/sms_ble_setting_volt"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:textSize="@dimen/info_text_normal"
+                                    android:textColor="@color/green"
+                                    android:textStyle="bold"
+                                    android:text="@string/device"/>
+                            </LinearLayout>
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:id="@+id/ble_set_factory_reset_layout"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/duijiangjshezhi_height"
+                            android:background="@color/shezhi_hui"
+                            android:orientation="vertical"
+                            android:padding="5dp"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:layout_gravity="center"
+                            android:layout_marginRight="5dp">
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textColor="@color/huise"
+                                android:layout_centerVertical="true"
+                                android:textSize="@dimen/info_text_normal"
+                                android:text="恢复出厂\n设置"
+                                android:gravity="center"
+                                android:layout_marginBottom="5dp"/>
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginTop="5dp"
+                        android:orientation="horizontal">
+                        <LinearLayout
+                            android:id="@+id/ble_set_freq_code_layout"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/duijiangjshezhi_height"
+                            android:background="@color/shezhi_hui"
+                            android:orientation="vertical"
+                            android:padding="5dp"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:layout_gravity="center"
+                            android:layout_marginRight="5dp"
+                            android:visibility="gone">
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textColor="@color/huise"
+                                android:layout_centerVertical="true"
+                                android:textSize="@dimen/info_text_normal"
+                                android:text="@string/sms_ble_setting_freq_code"
+                                android:gravity="center"
+                                android:layout_marginBottom="5dp"/>
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:orientation="horizontal"
+                                android:layout_marginTop="@dimen/margin_medium">
+                                <TextView
+                                    android:id="@+id/sms_ble_setting_freq_code"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:textSize="@dimen/info_text_normal"
+                                    android:textColor="@color/green"
+                                    android:textStyle="bold"
+                                    android:text="@string/device"/>
+                            </LinearLayout>
+
+                        </LinearLayout>
+                        <LinearLayout
+                            android:id="@+id/ble_set_tx_hite_layout"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/duijiangjshezhi_height"
+                            android:background="@color/shezhi_hui"
+                            android:orientation="vertical"
+                            android:padding="5dp"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:layout_gravity="center"
+                            android:layout_marginRight="5dp">
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textColor="@color/huise"
+                                android:layout_centerVertical="true"
+                                android:textSize="@dimen/info_text_normal"
+                                android:text="发送提示\n音开关"
+                                android:gravity="center"
+                                android:layout_marginBottom="5dp"/>
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:orientation="horizontal"
+                                android:layout_gravity="center"
+                                android:gravity="center">
+                                <com.sms.app.interphone.view.SwitchButton
+                                    xmlns:app="http://schemas.android.com/apk/res/com.sms.app.interphone"
+                                    android:id="@+id/ble_set_swit_tx_hite"
+                                    android:layout_width="50dp"
+                                    android:layout_height="25dp"
+                                    android:layout_gravity="center|top"
+                                    android:layout_centerVertical="true"
+                                    android:layout_marginTop="10dp"
+                                    app:bgColor="@color/green"
+                                    app:leftColor="@color/white"
+                                    app:rightColor="@color/white"
+                                    app:textLeft="Y"
+                                    app:textLeftClickColor="@color/green"
+                                    app:textLeftColor="@color/white"
+                                    app:textRight="N"
+                                    app:textRightClickColor="@color/green"
+                                    app:textRightColor="@color/white" />
+                            </LinearLayout>
+
+                        </LinearLayout>
+
+                        <LinearLayout
+
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/duijiangjshezhi_height"
+                            android:background="@color/white"
+                            android:orientation="vertical"
+                            android:padding="5dp"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:layout_gravity="center"
+                            android:layout_marginRight="5dp">
+                      <!--      <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textColor="@color/huise"
+                                android:layout_centerVertical="true"
+                                android:textSize="@dimen/info_text_normal"
+                                android:text="固件"
+                                android:gravity="center"
+                                android:layout_marginBottom="5dp"/>
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:orientation="horizontal"
+                                android:layout_marginTop="@dimen/margin_medium">
+                                <TextView
+                                    android:id="@+id/sms_ble_setting_freq_codze"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:textSize="@dimen/info_text_normal"
+                                    android:textColor="@color/green"
+                                    android:textStyle="bold"
+                                    android:text="@string/sms_ble_setting_updata_Firmware"/>
+                            </LinearLayout>-->
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:id="@+id/ll_Device_reset"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/duijiangjshezhi_height"
+                            android:background="@color/shezhi_hui"
+                            android:orientation="vertical"
+                            android:padding="5dp"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:layout_gravity="center"
+                            android:layout_marginRight="5dp"
+                            android:visibility="gone">
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+
+
+
+
+                </LinearLayout>
+            </ScrollView>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+
+
+
+</RelativeLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+
+           android:layout_marginTop="@dimen/margin_medium"
+           android:orientation="horizontal">
+                       <RelativeLayout
+                           android:layout_width="match_parent"
+                           android:layout_height="match_parent"
+                           android:layout_weight="1"
+                           android:orientation="vertical"
+                           android:layout_gravity="center"
+                           android:gravity="center">
+
+                               <LinearLayout
+                                   android:id="@+id/ble_set_name_layout"
+                                   android:layout_width="match_parent"
+                                   android:layout_height="wrap_content"
+                                   android:gravity="center">
+                                   <ImageView
+                                       android:layout_width="wrap_content"
+                                       android:layout_height="wrap_content"
+                                       android:scaleType="centerCrop"
+                                       android:src="@mipmap/xiugaisehzhi" />
+                                   <TextView
+                                       android:id="@+id/sms_ble_setting_device_name"
+                                       android:layout_width="wrap_content"
+                                       android:layout_height="wrap_content"
+                                       android:textColor="@color/huise"
+                                       android:layout_centerVertical="true"
+                                       android:textSize="@dimen/info_text_normal"
+                                       android:layout_marginLeft="10dp"
+                                       android:text="@string/sms_ble_setting_device_name" />
+                               </LinearLayout>
+
+                            <LinearLayout
+                               android:layout_width="match_parent"
+                               android:layout_height="wrap_content"
+                               android:gravity="center"
+                                android:layout_centerInParent="true"
+                                android:layout_above="@+id/ll_Looking_equipment"
+                                android:layout_below="@+id/ble_set_name_layout">
+                                   <ImageView
+                                       android:id="@+id/iv_seek_device"
+                                       android:layout_width="wrap_content"
+                                       android:layout_height="wrap_content"
+                                       android:scaleType="centerCrop"
+                                       android:src="@mipmap/duijianjishez" />
+                            </LinearLayout>
+
+                           <LinearLayout
+                               android:id="@+id/ll_Looking_equipment"
+                               android:layout_width="match_parent"
+                               android:layout_height="wrap_content"
+                               android:gravity="center"
+                               android:layout_alignParentBottom="true"
+                               android:orientation="vertical"
+                               android:layout_marginBottom="10dp">
+                               <ImageView
+                                   android:layout_width="wrap_content"
+                                   android:layout_height="wrap_content"
+                                   android:scaleType="centerCrop"
+                                   android:src="@mipmap/liangbianxx" />
+                               <TextView
+                                   android:layout_width="wrap_content"
+                                   android:layout_height="wrap_content"
+                                   android:textColor="@color/huise"
+                                   android:layout_centerVertical="true"
+                                   android:textSize="@dimen/info_text_normal"
+                                   android:text="搜索设备" />
+                           </LinearLayout>
+
+
+                       </RelativeLayout>
+
+
+
+
+                      <LinearLayout
+                          android:layout_width="match_parent"
+                          android:layout_height="wrap_content"
+                          android:layout_weight="1">
+
+                          <ScrollView
+                              android:id="@+id/sll_view"
+                              android:layout_width="match_parent"
+                              android:layout_height="match_parent">
+                              &lt;!&ndash;android:scrollbars="none"&ndash;&gt;
+
+                              <LinearLayout
+                                  android:layout_width="match_parent"
+                                  android:layout_height="match_parent"
+                                  android:orientation="vertical">
+
+                                 <LinearLayout
+                                     android:layout_width="match_parent"
+                                     android:layout_height="match_parent"
+                                     android:orientation="horizontal">
+
+                                          <LinearLayout
+                                              android:id="@+id/ble_set_freq_layout"
+                                              android:layout_width="match_parent"
+                                              android:layout_height="@dimen/duijiangjshezhi_height"
+                                              android:layout_marginTop="5dp"
+                                              android:background="@color/shezhi_hui"
+                                              android:orientation="vertical"
+                                              android:padding="5dp"
+                                              android:layout_weight="1"
+                                              android:gravity="center"
+                                              android:layout_marginRight="5dp">
+                                              <TextView
+                                                  android:layout_width="wrap_content"
+                                                  android:layout_height="wrap_content"
+                                                  android:textColor="@color/huise"
+                                                  android:layout_centerVertical="true"
+                                                  android:textSize="@dimen/info_text_normal"
+                                                  android:text="频率"
+                                                  android:gravity="center"
+                                                  android:layout_marginBottom="5dp"/>
+                                              <LinearLayout
+                                                  android:layout_width="wrap_content"
+                                                  android:layout_height="wrap_content"
+                                                  android:orientation="horizontal"
+                                                  android:layout_marginTop="@dimen/margin_medium">
+                                                  <TextView
+                                                      android:id="@+id/sms_ble_setting_freq"
+                                                      android:layout_width="wrap_content"
+                                                      android:layout_height="wrap_content"
+                                                      android:textSize="@dimen/info_text_normal"
+                                                      android:textColor="@color/green"
+                                                      android:textStyle="bold"
+                                                      android:text="@string/device"/>
+                                              </LinearLayout>
+
+                                          </LinearLayout>
+
+                                     <LinearLayout
+                                         android:id="@+id/ble_set_sq_layout"
+                                         android:layout_width="match_parent"
+                                         android:layout_height="@dimen/duijiangjshezhi_height"
+                                         android:layout_marginTop="5dp"
+                                         android:background="@color/shezhi_hui"
+                                         android:orientation="vertical"
+                                         android:padding="5dp"
+                                         android:layout_weight="1"
+                                         android:gravity="center"
+                                         android:layout_marginRight="5dp">
+                                         <TextView
+                                             android:layout_width="wrap_content"
+                                             android:layout_height="wrap_content"
+                                             android:textColor="@color/huise"
+                                             android:layout_centerVertical="true"
+                                             android:textSize="@dimen/info_text_normal"
+                                             android:text="静噪等级"
+                                             android:gravity="center"
+                                             android:layout_marginBottom="5dp"/>
+                                         <LinearLayout
+                                             android:layout_width="wrap_content"
+                                             android:layout_height="wrap_content"
+                                             android:orientation="horizontal"
+                                             android:layout_marginTop="@dimen/margin_medium">
+                                             <TextView
+                                                 android:id="@+id/sms_ble_setting_sq"
+                                                 android:layout_width="wrap_content"
+                                                 android:layout_height="wrap_content"
+                                                 android:textSize="@dimen/info_text_normal"
+                                                 android:textColor="@color/green"
+                                                 android:textStyle="bold"
+                                                 android:text="@string/device"/>
+                                         </LinearLayout>
+
+                                     </LinearLayout>
+
+                                 </LinearLayout>
+
+
+                                  <LinearLayout
+                                      android:layout_width="match_parent"
+                                      android:layout_height="match_parent"
+                                      android:orientation="horizontal"
+                                      android:layout_marginTop="5dp">
+                                      <LinearLayout
+                                          android:id="@+id/ble_set_tx_layout"
+                                          android:layout_width="match_parent"
+                                          android:layout_height="@dimen/duijiangjshezhi_height"
+                                          android:background="@color/shezhi_hui"
+                                          android:orientation="vertical"
+                                          android:padding="5dp"
+                                          android:layout_weight="1"
+                                          android:gravity="center"
+                                          android:layout_gravity="center"
+                                          android:layout_marginRight="5dp">
+                                          <TextView
+                                              android:layout_width="wrap_content"
+                                              android:layout_height="wrap_content"
+                                              android:textColor="@color/huise"
+                                              android:layout_centerVertical="true"
+                                              android:textSize="@dimen/info_text_normal"
+                                              android:text="发送\n亚音频"
+                                              android:gravity="center"
+                                              android:layout_marginBottom="5dp"/>
+                                          <LinearLayout
+                                              android:layout_width="wrap_content"
+                                              android:layout_height="wrap_content"
+                                              android:orientation="horizontal"
+                                              android:layout_marginTop="@dimen/margin_medium">
+
+                                              <TextView
+                                                  android:id="@+id/sms_ble_setting_tx_code"
+                                                  android:layout_width="match_parent"
+                                                  android:layout_height="match_parent"
+                                                  android:text="@string/device"
+                                                  android:textColor="@color/green"
+                                                  android:textSize="@dimen/info_text_normal"
+                                                  android:textStyle="bold" />
+                                          </LinearLayout>
+
+                                      </LinearLayout>
+
+                                      <LinearLayout
+                                          android:id="@+id/ble_set_rx_layout"
+                                          android:layout_width="match_parent"
+                                          android:layout_height="@dimen/duijiangjshezhi_height"
+                                          android:background="@color/shezhi_hui"
+                                          android:orientation="vertical"
+                                          android:padding="5dp"
+                                          android:layout_weight="1"
+                                          android:gravity="center"
+                                          android:layout_gravity="center"
+                                          android:layout_marginRight="5dp">
+                                          <TextView
+                                              android:layout_width="wrap_content"
+                                              android:layout_height="wrap_content"
+                                              android:textColor="@color/huise"
+                                              android:layout_centerVertical="true"
+                                              android:textSize="@dimen/info_text_normal"
+                                              android:text="接受\n亚音频"
+                                              android:gravity="center"
+                                              android:layout_marginBottom="5dp"/>
+                                          <LinearLayout
+                                              android:layout_width="wrap_content"
+                                              android:layout_height="wrap_content"
+                                              android:orientation="horizontal"
+                                              android:layout_marginTop="@dimen/margin_medium">
+                                              <TextView
+                                                  android:id="@+id/sms_ble_setting_rx_code"
+                                                  android:layout_width="wrap_content"
+                                                  android:layout_height="wrap_content"
+                                                  android:textSize="@dimen/info_text_normal"
+                                                  android:textColor="@color/green"
+                                                  android:textStyle="bold"
+                                                  android:text="@string/device"/>
+                                          </LinearLayout>
+
+                                      </LinearLayout>
+
+                                  </LinearLayout>
+
+
+                                  <LinearLayout
+                                      android:layout_width="match_parent"
+                                      android:layout_height="match_parent"
+                                      android:orientation="horizontal"
+                                      android:layout_marginTop="5dp">
+                                      <LinearLayout
+                                          android:id="@+id/ble_set_tx_hite_layout"
+                                          android:layout_width="match_parent"
+                                          android:layout_height="@dimen/duijiangjshezhi_height"
+                                          android:background="@color/shezhi_hui"
+                                          android:orientation="vertical"
+                                          android:padding="5dp"
+                                          android:layout_weight="1"
+                                          android:gravity="center"
+                                          android:layout_gravity="center"
+                                          android:layout_marginRight="5dp">
+                                          <TextView
+                                              android:layout_width="wrap_content"
+                                              android:layout_height="wrap_content"
+                                              android:textColor="@color/huise"
+                                              android:layout_centerVertical="true"
+                                              android:textSize="@dimen/info_text_normal"
+                                              android:text="发送提示\n音开关"
+                                              android:gravity="center"
+                                              android:layout_marginBottom="5dp"/>
+                                          <LinearLayout
+                                              android:layout_width="wrap_content"
+                                              android:layout_height="wrap_content"
+                                              android:orientation="horizontal"
+                                              android:layout_gravity="center"
+                                              android:gravity="center">
+                                              <com.sms.app.interphone.view.SwitchButton
+                                                  xmlns:app="http://schemas.android.com/apk/res/com.sms.app.interphone"
+                                                  android:id="@+id/ble_set_swit_tx_hite"
+                                                  android:layout_width="50dp"
+                                                  android:layout_height="25dp"
+                                                  android:layout_gravity="center|top"
+                                                  android:layout_centerVertical="true"
+                                                  android:layout_marginTop="10dp"
+                                                  app:bgColor="@color/green"
+                                                  app:leftColor="@color/white"
+                                                  app:rightColor="@color/white"
+                                                  app:textLeft="Y"
+                                                  app:textLeftClickColor="@color/green"
+                                                  app:textLeftColor="@color/white"
+                                                  app:textRight="N"
+                                                  app:textRightClickColor="@color/green"
+                                                  app:textRightColor="@color/white" />
+                                          </LinearLayout>
+
+                                      </LinearLayout>
+
+                                      <LinearLayout
+                                          android:layout_width="match_parent"
+                                          android:layout_height="@dimen/duijiangjshezhi_height"
+                                          android:background="@color/shezhi_hui"
+                                          android:orientation="vertical"
+                                          android:padding="5dp"
+                                          android:layout_weight="1"
+                                          android:gravity="center"
+                                          android:layout_gravity="center"
+                                          android:layout_marginRight="5dp">
+                                          <TextView
+                                              android:layout_width="wrap_content"
+                                              android:layout_height="wrap_content"
+                                              android:textColor="@color/huise"
+                                              android:layout_centerVertical="true"
+                                              android:textSize="@dimen/info_text_normal"
+                                              android:text="尾音消除\n开关"
+                                              android:gravity="center"
+                                              android:layout_marginBottom="5dp"/>
+                                          <LinearLayout
+                                              android:layout_width="wrap_content"
+                                              android:layout_height="wrap_content"
+                                              android:orientation="horizontal"
+                                              android:layout_gravity="center"
+                                              android:gravity="center">
+                                              <com.sms.app.interphone.view.SwitchButton
+                                                  xmlns:app="http://schemas.android.com/apk/res/com.sms.app.interphone"
+                                                  android:id="@+id/ble_set_swit_stop_hite"
+                                                  android:layout_width="50dp"
+                                                  android:layout_height="25dp"
+                                                  android:layout_gravity="center|top"
+                                                  android:layout_centerVertical="true"
+                                                  android:layout_marginTop="10dp"
+                                                  app:bgColor="@color/green"
+                                                  app:leftColor="@color/white"
+                                                  app:rightColor="@color/white"
+                                                  app:textLeft="Y"
+                                                  app:textLeftClickColor="@color/green"
+                                                  app:textLeftColor="@color/white"
+                                                  app:textRight="N"
+                                                  app:textRightClickColor="@color/green"
+                                                  app:textRightColor="@color/white" />
+                                          </LinearLayout>
+
+                                      </LinearLayout>
+
+                                  </LinearLayout>
+
+
+
+                                  <LinearLayout
+                                      android:layout_width="match_parent"
+                                      android:layout_height="match_parent"
+                                      android:orientation="horizontal"
+                                      android:layout_marginTop="5dp">
+                                      <LinearLayout
+                                          android:id="@+id/ble_set_disconnect_layout"
+                                          android:layout_width="match_parent"
+                                          android:layout_height="@dimen/duijiangjshezhi_height"
+                                          android:background="@color/shezhi_hui"
+                                          android:orientation="vertical"
+                                          android:padding="5dp"
+                                          android:layout_weight="1"
+                                          android:gravity="center"
+                                          android:layout_gravity="center"
+                                          android:layout_marginRight="5dp">
+                                          <TextView
+                                              android:layout_width="wrap_content"
+                                              android:layout_height="wrap_content"
+                                              android:textColor="@color/huise"
+                                              android:layout_centerVertical="true"
+                                              android:textSize="@dimen/info_text_normal"
+                                              android:text="断开连接\n提示"
+                                              android:gravity="center"
+                                              android:layout_marginBottom="5dp"/>
+                                          <LinearLayout
+                                              android:layout_width="wrap_content"
+                                              android:layout_height="wrap_content"
+                                              android:orientation="horizontal"
+                                              android:layout_gravity="center"
+                                              android:gravity="center">
+                                              <com.sms.app.interphone.view.SwitchButton
+                                                  xmlns:app="http://schemas.android.com/apk/res/com.sms.app.interphone"
+                                                  android:id="@+id/ble_set_swit_disconnect"
+                                                  android:layout_width="50dp"
+                                                  android:layout_height="25dp"
+                                                  android:layout_gravity="center|top"
+                                                  android:layout_centerVertical="true"
+                                                  android:layout_marginTop="10dp"
+                                                  app:bgColor="@color/shezhi_chengse"
+                                                  app:leftColor="@color/white"
+                                                  app:rightColor="@color/white"
+                                                  app:textLeft="Y"
+                                                  app:textLeftClickColor="@color/shezhi_chengse"
+                                                  app:textLeftColor="@color/white"
+                                                  app:textRight="N"
+                                                  app:textRightClickColor="@color/shezhi_chengse"
+                                                  app:textRightColor="@color/white" />
+                                          </LinearLayout>
+
+                                      </LinearLayout>
+
+                                      <LinearLayout
+                                          android:id="@+id/ble_set_vox_layout"
+                                          android:layout_width="match_parent"
+                                          android:layout_height="@dimen/duijiangjshezhi_height"
+                                          android:background="@color/shezhi_hui"
+                                          android:orientation="vertical"
+                                          android:padding="5dp"
+                                          android:layout_weight="1"
+                                          android:gravity="center"
+                                          android:layout_gravity="center"
+                                          android:layout_marginRight="5dp">
+                                          <TextView
+                                              android:layout_width="wrap_content"
+                                              android:layout_height="wrap_content"
+                                              android:textColor="@color/huise"
+                                              android:layout_centerVertical="true"
+                                              android:textSize="@dimen/info_text_normal"
+                                              android:text="VOX\n等级"
+                                              android:gravity="center"
+                                              android:layout_marginBottom="5dp"/>
+                                          <LinearLayout
+                                              android:layout_width="wrap_content"
+                                              android:layout_height="wrap_content"
+                                              android:orientation="horizontal"
+                                              android:layout_marginTop="@dimen/margin_medium">
+                                              <TextView
+                                                  android:id="@+id/sms_ble_setting_vox"
+                                                  android:layout_width="wrap_content"
+                                                  android:layout_height="wrap_content"
+                                                  android:textSize="@dimen/info_text_normal"
+                                                  android:textColor="@color/green"
+                                                  android:textStyle="bold"
+                                                  android:text="@string/device"/>
+                                          </LinearLayout>
+
+                                      </LinearLayout>
+
+                                  </LinearLayout>
+
+
+                                  <LinearLayout
+                                      android:layout_width="match_parent"
+                                      android:layout_height="match_parent"
+                                      android:orientation="horizontal"
+                                      android:layout_marginTop="5dp">
+                                      <LinearLayout
+                                          android:id="@+id/radioGroup_set_tx_power"
+                                          android:layout_width="match_parent"
+                                          android:layout_height="@dimen/duijiangjshezhi_height"
+                                          android:background="@color/shezhi_hui"
+                                          android:orientation="vertical"
+                                          android:padding="5dp"
+                                          android:layout_weight="1"
+                                          android:gravity="center"
+                                          android:layout_gravity="center"
+                                          android:layout_marginRight="5dp">
+                                          <TextView
+                                              android:layout_width="wrap_content"
+                                              android:layout_height="wrap_content"
+                                              android:textColor="@color/huise"
+                                              android:layout_centerVertical="true"
+                                              android:textSize="@dimen/info_text_normal"
+                                              android:text="发射\n功率"
+                                              android:gravity="center"
+                                              android:layout_marginBottom="5dp"/>
+                                          <LinearLayout
+                                              android:layout_width="wrap_content"
+                                              android:layout_height="wrap_content"
+                                              android:orientation="horizontal"
+                                              android:layout_marginTop="@dimen/margin_medium">
+                                              <TextView
+                                                  android:id="@+id/sms_ble_setting_tx_power"
+                                                  android:layout_width="wrap_content"
+                                                  android:layout_height="wrap_content"
+                                                  android:textSize="@dimen/info_text_normal"
+                                                  android:textColor="@color/green"
+                                                  android:textStyle="bold"
+                                                  android:text="@string/device"/>
+                                          </LinearLayout>
+
+                                      </LinearLayout>
+
+                                      <LinearLayout
+                                          android:id="@+id/ble_set_rf_layout"
+                                          android:layout_width="match_parent"
+                                          android:layout_height="@dimen/duijiangjshezhi_height"
+                                          android:background="@color/shezhi_hui"
+                                          android:orientation="vertical"
+                                          android:padding="5dp"
+                                          android:layout_weight="1"
+                                          android:gravity="center"
+                                          android:layout_gravity="center"
+                                          android:layout_marginRight="5dp">
+                                          <TextView
+                                              android:layout_width="wrap_content"
+                                              android:layout_height="wrap_content"
+                                              android:textColor="@color/huise"
+                                              android:layout_centerVertical="true"
+                                              android:textSize="@dimen/info_text_normal"
+                                              android:text="RF\n开关"
+                                              android:gravity="center"
+                                              android:layout_marginBottom="5dp"/>
+                                          <LinearLayout
+                                              android:layout_width="wrap_content"
+                                              android:layout_height="wrap_content"
+                                              android:orientation="horizontal"
+                                              android:layout_marginTop="@dimen/margin_medium">
+                                              <TextView
+                                                  android:id="@+id/sms_ble_setting_rf"
+                                                  android:layout_width="wrap_content"
+                                                  android:layout_height="wrap_content"
+                                                  android:textSize="@dimen/info_text_normal"
+                                                  android:textColor="@color/green"
+                                                  android:textStyle="bold"
+                                                  android:text="@string/device"/>
+                                          </LinearLayout>
+
+                                      </LinearLayout>
+
+                                  </LinearLayout>
+
+
+
+                                  <LinearLayout
+                                      android:layout_width="match_parent"
+                                      android:layout_height="match_parent"
+                                      android:orientation="horizontal"
+                                      android:layout_marginTop="5dp">
+                                      <LinearLayout
+                                          android:id="@+id/ble_set_volt_layout"
+                                          android:layout_width="match_parent"
+                                          android:layout_height="@dimen/duijiangjshezhi_height"
+                                          android:background="@color/shezhi_hui"
+                                          android:orientation="vertical"
+                                          android:padding="5dp"
+                                          android:layout_weight="1"
+                                          android:gravity="center"
+                                          android:layout_gravity="center"
+                                          android:layout_marginRight="5dp">
+                                          <TextView
+                                              android:layout_width="wrap_content"
+                                              android:layout_height="wrap_content"
+                                              android:textColor="@color/huise"
+                                              android:layout_centerVertical="true"
+                                              android:textSize="@dimen/info_text_normal"
+                                              android:text="电池\n电压"
+                                              android:gravity="center"
+                                              android:layout_marginBottom="5dp"/>
+                                          <LinearLayout
+                                              android:layout_width="wrap_content"
+                                              android:layout_height="wrap_content"
+                                              android:orientation="horizontal"
+                                              android:layout_marginTop="@dimen/margin_medium">
+                                              <TextView
+                                                  android:id="@+id/sms_ble_setting_volt"
+                                                  android:layout_width="wrap_content"
+                                                  android:layout_height="wrap_content"
+                                                  android:textSize="@dimen/info_text_normal"
+                                                  android:textColor="@color/green"
+                                                  android:textStyle="bold"
+                                                  android:text="@string/device"/>
+                                          </LinearLayout>
+
+                                      </LinearLayout>
+
+                                      <LinearLayout
+                                          android:id="@+id/ble_set_factory_reset_layout"
+                                          android:layout_width="match_parent"
+                                          android:layout_height="@dimen/duijiangjshezhi_height"
+                                          android:background="@color/shezhi_hui"
+                                          android:orientation="vertical"
+                                          android:padding="5dp"
+                                          android:layout_weight="1"
+                                          android:gravity="center"
+                                          android:layout_gravity="center"
+                                          android:layout_marginRight="5dp">
+                                          <TextView
+                                              android:layout_width="wrap_content"
+                                              android:layout_height="wrap_content"
+                                              android:textColor="@color/huise"
+                                              android:layout_centerVertical="true"
+                                              android:textSize="@dimen/info_text_normal"
+                                              android:text="恢复出厂\n设置"
+                                              android:gravity="center"
+                                              android:layout_marginBottom="5dp"/>
+
+                                      </LinearLayout>
+
+                                  </LinearLayout>
+
+
+                                  <LinearLayout
+                                      android:layout_width="match_parent"
+                                      android:layout_height="match_parent"
+                                      android:layout_marginTop="5dp"
+                                      android:orientation="horizontal">
+                                      <LinearLayout
+                                          android:id="@+id/ble_set_freq_code_layout"
+                                          android:layout_width="match_parent"
+                                          android:layout_height="@dimen/duijiangjshezhi_height"
+                                          android:background="@color/shezhi_hui"
+                                          android:orientation="vertical"
+                                          android:padding="5dp"
+                                          android:layout_weight="1"
+                                          android:gravity="center"
+                                          android:layout_gravity="center"
+                                          android:layout_marginRight="5dp">
+                                          <TextView
+                                              android:layout_width="wrap_content"
+                                              android:layout_height="wrap_content"
+                                              android:textColor="@color/huise"
+                                              android:layout_centerVertical="true"
+                                              android:textSize="@dimen/info_text_normal"
+                                              android:text="@string/sms_ble_setting_freq_code"
+                                              android:gravity="center"
+                                              android:layout_marginBottom="5dp"/>
+                                          <LinearLayout
+                                              android:layout_width="wrap_content"
+                                              android:layout_height="wrap_content"
+                                              android:orientation="horizontal"
+                                              android:layout_marginTop="@dimen/margin_medium">
+                                              <TextView
+                                                  android:id="@+id/sms_ble_setting_freq_code"
+                                                  android:layout_width="wrap_content"
+                                                  android:layout_height="wrap_content"
+                                                  android:textSize="@dimen/info_text_normal"
+                                                  android:textColor="@color/green"
+                                                  android:textStyle="bold"
+                                                  android:text="@string/device"/>
+                                          </LinearLayout>
+
+                                      </LinearLayout>
+
+                                      <LinearLayout
+                                          android:id="@+id/ble_set_updata_layout"
+                                          android:layout_width="match_parent"
+                                          android:layout_height="@dimen/duijiangjshezhi_height"
+                                          android:background="@color/shezhi_hui"
+                                          android:orientation="vertical"
+                                          android:padding="5dp"
+                                          android:layout_weight="1"
+                                          android:gravity="center"
+                                          android:layout_gravity="center"
+                                          android:layout_marginRight="5dp">
+                                          <TextView
+                                              android:layout_width="wrap_content"
+                                              android:layout_height="wrap_content"
+                                              android:textColor="@color/huise"
+                                              android:layout_centerVertical="true"
+                                              android:textSize="@dimen/info_text_normal"
+                                              android:text="固件"
+                                              android:gravity="center"
+                                              android:layout_marginBottom="5dp"/>
+                                          <LinearLayout
+                                              android:layout_width="wrap_content"
+                                              android:layout_height="wrap_content"
+                                              android:orientation="horizontal"
+                                              android:layout_marginTop="@dimen/margin_medium">
+                                              <TextView
+                                                  android:id="@+id/sms_ble_setting_freq_codze"
+                                                  android:layout_width="wrap_content"
+                                                  android:layout_height="wrap_content"
+                                                  android:textSize="@dimen/info_text_normal"
+                                                  android:textColor="@color/green"
+                                                  android:textStyle="bold"
+                                                  android:text="@string/sms_ble_setting_updata_Firmware"/>
+                                          </LinearLayout>
+                                      </LinearLayout>
+
+                                   <LinearLayout
+                                         android:id="@+id/ll_Device_reset"
+                                          android:layout_width="match_parent"
+                                          android:layout_height="@dimen/duijiangjshezhi_height"
+                                          android:background="@color/shezhi_hui"
+                                          android:orientation="vertical"
+                                          android:padding="5dp"
+                                          android:layout_weight="1"
+                                          android:gravity="center"
+                                          android:layout_gravity="center"
+                                          android:layout_marginRight="5dp"
+                                          android:visibility="gone">
+
+                                      </LinearLayout>
+
+                                  </LinearLayout>
+
+
+
+
+
+                              </LinearLayout>
+                          </ScrollView>
+
+                      </LinearLayout>
+
+                  </LinearLayout>
+
+
+
+
+
+</RelativeLayout>-->
+
+
+
+
